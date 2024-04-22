@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:58">
+  <properties>
+    <titles>
+      <title>Yo te seguiré</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Henry Pinto</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Un camino encontré y estabas tu llamándome, me miraste con amor, mi corazón te respondió. Yo te seguire, no te soltaré</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hoy es tiempo de seguirte, de recibirte como Rey y Salvador, hoy es tiempo de adorarte, de recibirte por tu sangre mi Señor</lines>
+    </verse>
+  </lyrics>
+</song>

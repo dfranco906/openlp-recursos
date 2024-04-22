@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:09">
+  <properties>
+    <titles>
+      <title>Al mundo paz</title>
+    </titles>
+    <comments>
+      <comment>AC140, CSG118, Himnos Vida Cristiana 34
+</comment>
+    </comments>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="250"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Al mundo paz, nació Jesús,<br/>Nació ya nuestro Rey.<br/>El corazón ya tiene luz<br/>// Y paz su santa grey, //<br/>Y paz, y paz su santa grey.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Al mundo paz, el Salvador<br/>En tierra reinará.<br/>Ya es feliz el corazón;<br/>// Jesús perdón le da, //<br/>Jesús, Jesús perdón le da.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Al mundo Él gobernará<br/>Con gracia y con poder;<br/>A las naciones mostrará<br/>// Su amor y su poder, //<br/>Su amor, su amor y su poder.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

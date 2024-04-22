@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:11">
+  <properties>
+    <titles>
+      <title>El Señor es mi luz y mi salvación</title>
+    </titles>
+    <comments>
+      <comment>
+</comment>
+    </comments>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="032"/>
+      <songbook name="OTRAS" entry="AC 283"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">El Señor es mi luz y mi salvación,<br/>¿De quién temeré?, Él es mi fortaleza.<br/>Cuando se juntaron contra mí<br/>Mis enemigos, mis angustiadores.<br/></lines>
+      <lines>Aunque un ejército acampe contra mí,<br/>No temerá mi corazón;<br/>Aunque contra mí se levanten guerras,<br/>Yo viviré confiado, pues una cosa yo<br/>He demandado a mi Dios, esa buscaré:<br/>Vivir en su casa todos los días<br/>De mi existencia, contemplar su hermosura<br/>Y esconderme bajo el manto, Señor, Señor.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Espíritu de Dios</title>
+    </titles>
+    <authors>
+      <author>Dominio Publico</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Espíritu de Dios, llena mi vida, llena mi alma, llena mi ser</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lléname, Lléname, con tu Presencia lléname, lléname, con tu poder lléname, lléname con tu amor</lines>
+    </verse>
+  </lyrics>
+</song>

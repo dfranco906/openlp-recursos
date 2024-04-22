@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Gracias</title>
+    </titles>
+    <verseOrder>v1 c1 v2</verseOrder>
+    <authors>
+      <author>Marcos Witt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Me has tomado en tus brazos, y me has dado salvación, de tu amor has derramado en mi corazón. No sabré agradecerte, lo que has hecho por mí, solo puedo darte ahora mi canción</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Yo te doy gracias, gracias Señor, gracias, mi Señor Jesús, gracias, gracias Señor, gracias, mi Señor Jesús</lines>
+    </verse>
+    <verse name="v2">
+      <lines>En la cruz diste tu vida, entregaste todo ahí, vida eterna regalaste al morir, Por tu sangre tengo entrada, ante el trono celestial, puedo entrar confiadamente ante ti</lines>
+    </verse>
+  </lyrics>
+</song>

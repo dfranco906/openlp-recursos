@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:11">
+  <properties>
+    <titles>
+      <title>El brillo de este mundo</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="006"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>El brillo de este mundo<br/>Se opaca ante ti,<br/>La gloria de esta tierra nada es,<br/>Todo cae en tu presencia, oh Rey,<br/>¡Qué hermosa es tu presencia, Señor!<br/><br/>Tu presencia está aquí,<br/>Tu presencia está en mí,<br/>Y tu pueblo te recibe, alabándote,<br/>¡Qué hermosa es tu presencia, Señor!<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

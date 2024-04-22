@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:10">
+  <properties>
+    <titles>
+      <title>Cristo te amo mi Señor</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="190"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/// Cristo te amo /// mi Señor.<br/>/// Te necesito /// mi Señor.<br/>/// Cristo te alabo /// mi Señor.<br/>// Cristo te amo... Cristo te alabo,<br/>Te necesito mi Señor. //</lines>
+    </verse>
+  </lyrics>
+</song>

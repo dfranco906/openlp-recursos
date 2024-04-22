@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:10">
+  <properties>
+    <titles>
+      <title>Cada vez que mi fe es probada</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="385"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Cada vez que mi fe es probada<br/>Tú me das la gracia<br/>De crecer un poco más.<br/>Las montañas y valles,<br/>Desiertos y mares que atravieso,<br/>Me llevan más cerca de Ti.<br/></lines>
+      <lines break="optional">Mis pruebas no son<br/>Mayores que mi Dios,<br/>Y no van a impedirme caminar.<br/>Si delante de mí no se abriera el mar,<br/>Dios me puede hacer andar<br/>Sobre las aguas.<br/></lines>
+      <lines>// Rompiendo en fe,<br/>Mi vida se revestirá de tu poder.<br/>Rompiendo en fe,<br/>Con osadía voy a ver lo sobrenatural.<br/>Voy a luchar y vencer,<br/>Con Él sembrar y crecer;<br/>Cada día viviré<br/>Rompiendo en fe. //<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

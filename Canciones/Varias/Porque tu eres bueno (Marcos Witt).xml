@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:58">
+  <properties>
+    <titles>
+      <title>Porque tu eres bueno</title>
+    </titles>
+    <authors>
+      <author>Marcos Witt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Porque tu eres bueno, porque para siempre, tu misericordia es, cada mañana al despertar, se que en Ti puedo confiar, me sostienes por tu gran fidelidad</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Porque tu eres bueno, porque para siempre, tu misericordia es, en ella yo me deleitaré, en tu verdad caminaré, por tus sendas de justicia guiamé</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Musica del Cielo</title>
+    </titles>
+    <authors>
+      <author>Miel San Marcos</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Vamos a cantar Con la música del cielo, Vamos a cantar Alegres porque escuchas cuando Cantamos para exaltar Tu nombre</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amamos todo de ti, Tu creación te adora los reinos se rinden Hijo de Dios eres por quien Eres por quien vivimos hoy</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eres quien nos liberta Eres la luz que guía Que como un fuego ardiente Hijo de Dios eres por quién Eres por quién vivimos hoy</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>10000 Razones</title>
+    </titles>
+    <authors>
+      <author>Matt Redman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Que todo lo que soy, alabe al Señor, con todo mi corazón, de tu grande amor cantaré, tu nombre alabaré</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Sale el sol, es un nuevo amanecer, cantaré a ti otra vez, sea lo que venga, confiaré en ti, alabaré en el anochecer</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu amor no tiene fin y tú eres paciente y bondadoso es tu corazón. Por todo lo que has hecho yo sigo cantando 10.000 razones para alabar</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Y en ese día cuando ya no tenga fuerza y se acerque tu gloria, mi alma cantará de tu amor sin final 10.000 años y para siempre más</lines>
+    </verse>
+  </lyrics>
+</song>

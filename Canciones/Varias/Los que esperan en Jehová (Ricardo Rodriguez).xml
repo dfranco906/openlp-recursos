@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Los que esperan en Jehová</title>
+    </titles>
+    <verseOrder>v1 c1 b1</verseOrder>
+    <authors>
+      <author>Ricardo Rodriguez</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Los que esperan, los que esperan en Jehová, Los que esperan, los que esperan en Jehová, //Como las águilas como las águilas, Sus alas levantarán//</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Correrán y no se cansarán, Caminarán, no se fatigarán, //Como las águilas como las águilas, Sus alas levantarán//</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Saturame Señor con tu Espíritu, saturame Señor con tu Espíritu, y dejame sentir el fuego de tu amor, aqui en mi corazón Señor</lines>
+    </verse>
+  </lyrics>
+</song>

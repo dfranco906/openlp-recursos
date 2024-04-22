@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:58">
+  <properties>
+    <titles>
+      <title>Que sería de mi</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c2 c3</verseOrder>
+    <authors>
+      <author>Jesús Adrian Romero</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Que seria de mi, si no me hubieras alcanzado, donde estaría hoy, si no me hubieras perdonado</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tendría un vacío en mi corazón, Vagaría sin rumbo y sin dirección</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>//Si no fuera por tu, gracia y por tu amor//</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Seria como un pájaro herido, que se muere en el suelo, seria como un siervo que brama por agua en un desierto</lines>
+    </verse>
+    <verse name="c3">
+      <lines>//Si no fuera por tu gracia y por tu amor//</lines>
+    </verse>
+  </lyrics>
+</song>

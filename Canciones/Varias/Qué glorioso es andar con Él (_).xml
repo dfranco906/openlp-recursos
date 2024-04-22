@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:13">
+  <properties>
+    <titles>
+      <title>Qué glorioso es andar con Él</title>
+    </titles>
+    <comments>
+      <comment>Adelante Juventud 1,2:50
+AC096
+</comment>
+    </comments>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="291"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Qué glorioso es andar con Él,<br/>Qué glorioso es hablar con Él.<br/>Él mis pasos guiará<br/>Y al fin me llevará.<br/>Qué glorioso es andar con Él.</lines>
+    </verse>
+  </lyrics>
+</song>

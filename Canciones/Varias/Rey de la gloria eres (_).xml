@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:13">
+  <properties>
+    <titles>
+      <title>Rey de la gloria eres</title>
+    </titles>
+    <comments>
+      <comment>
+</comment>
+    </comments>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="282"/>
+      <songbook name="OTRAS" entry="AC 230"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Rey de la gloria eres, y tu divinidad<br/>Se manifiesta, oh Jesús, aún en tu humanidad.<br/><br/>Ángeles inclinando rinden su loor,<br/>Pues saben que tú eres el eterno,<br/>Saben que eres el Señor.<br/></lines>
+      <lines>Hosanna todos aclamemos,<br/>Hosanna al eterno Rey;<br/>Venga, oh Señor, tu reino pronto,<br/>Cúmplase aquí tu Ley.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

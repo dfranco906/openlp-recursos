@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Cerca de ti</title>
+    </titles>
+    <authors>
+      <author>Jesús Adrian Romero</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Si decidiera negar mi fe, y no confiar nuca más en él, no tengo a donde ir, No tengo a donde ir</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Si despreciara en mi corazón, la santa gracia que me salvo, no tengo a donde ir, no tengo a donde ir</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Convencido estoy que sin tu amor se acabarían mis fuerzas <br/>y sin ti mi corazón sediento se muere, se seca</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cerca de ti, yo quiero estar, de tu presencia no me quiero alejar. Cerca de ti Jesús, yo quiero estar, de tu presencia no me quiero alejar</lines>
+    </verse>
+  </lyrics>
+</song>

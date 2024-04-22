@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-03-27T23:13:50">
+  <properties>
+    <titles>
+      <title>45 Canta a Dios con Alegría</title>
+      <title>45</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="words">?</author>
+      <author type="music">?</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>Himno</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Canta a Dios con alegría<br/>el mensaje del Señor,<br/>De la verdadera vida<br/>que nos da con tanto amor.<br/>Cada historia de la Biblia<br/>nos relata su poder; <br/>Démosle nuestra alabanza,<br/>Demos todo nuestro ser.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nuestro Dios te agradecemos<br/>tu sin par revelación;<br/>Prometemos ser testigos<br/>a nuestra generación.<br/>Tu evangelio anunciaremos<br/>a la inmensa humanidad;<br/>Tu palabra llevaremos<br/>Al hacer tu voluntad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cristo nos dejó un mandato<br/>en su hora de triunfar,<br/>Y nos pide todavía ir al mundo y predicar.<br/>Que los hombres todos sepan<br/>de Jesús y su bondad,<br/>Que su amor sincero y puro<br/>Quiere darles libertad</lines>
+    </verse>
+  </lyrics>
+</song>

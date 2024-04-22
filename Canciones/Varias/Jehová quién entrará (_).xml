@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>Jehová quién entrará</title>
+    </titles>
+    <comments>
+      <comment>Sal 24
+AC215, CSG091
+</comment>
+    </comments>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="323"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Jehová, ¿quién entrará<br/>En el lugar de santidad? //<br/><br/>// El limpio de manos, de corazón puro,<br/>Que no es vanidoso ni sabe engañar. //</lines>
+    </verse>
+  </lyrics>
+</song>

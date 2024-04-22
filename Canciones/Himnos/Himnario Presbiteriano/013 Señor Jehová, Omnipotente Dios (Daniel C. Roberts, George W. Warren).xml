@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-21T16:32:11">
+  <properties>
+    <titles>
+      <title>013 Señor Jehová, Omnipotente Dios</title>
+      <title>13 Señor Jehová, Omnipotente Dios</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="words">Daniel C. Roberts</author>
+      <author type="music">George W. Warren</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>HIMNOS</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Señor Jehová, Omnipotente Dios,<br/>Tú que los astros riges con poder,<br/>oye clemente nuestra humilde voz,<br/>nuestra canción hoy dígnate atender.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Eterno Padre, nuestro corazón,<br/>a Ti profesa un inefable amor;<br/>hazte presente en tu pueblo hoy;<br/>tiéndenos, pues, tu brazo protector.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. A nuestra patria da tu bendición;<br/>enséñanos tus leyes a guardar;<br/>alumbra la conciencia y la razón;<br/>domina siempre Tú en todo hogar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Defiéndenos del enemigo cruel;<br/>concede a nuestras faltas corrección;<br/>nuestro servicio sea siempre fiel;<br/>rodéanos de tu gran protección.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Abre mis ojos Oh Cristo</title>
+    </titles>
+    <verseOrder>v1 c1 b1</verseOrder>
+    <authors>
+      <author>Vertical</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>////Abre mis ojos Oh Cristo, abre mis ojos Señor, yo quiero verte, yo quiero verte////</lines>
+    </verse>
+    <verse name="c1">
+      <lines>///Y contemplar tu majestad y el resplandor de tu gloria, derrama tu amor y poder, cuando cantamos Santo Santo///</lines>
+    </verse>
+    <verse name="b1">
+      <lines>////Santo Santo Santo, Eres Santo Santo Santo, Santo Santo Santo, yo quiero verte////</lines>
+    </verse>
+  </lyrics>
+</song>

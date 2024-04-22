@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-21T16:25:36">
+  <properties>
+    <titles>
+      <title>012 ¡Santo, Santo, Grande, Eterno Dios!</title>
+      <title>12 Santo, Santo, Grande, Eterno Dios</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Fanny Crosby</author>
+      <author type="music">William B. Bradbury</author>
+      <author type="translation">H. C. Ball</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>HIMNOS</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. ¡Santo, santo, grande, eterno Dios!<br/>Con alegría hoy te alabamos,<br/>Rey de reyes, grande Capitán,<br/>Todopoderoso Guerrero.<br/>Honor y gloria, luz y dominio,<br/>tributaremos todos a ti.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>¡Santo, santo, eres Tú, Señor!<br/>¡Dios de las batallas, glorioso!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Alabadle cielos, tierra y mar,<br/>toda su Iglesia, sus mensajeros;<br/>alabanzas, cantos de loor,<br/>hoy unidos elevaremos.<br/>Juez majestuoso y reverendo,<br/>fuego y vida eres, Señor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Rey de siglos, solo eterno Dios,<br/>veraz y justo, incomprensible;<br/>inmortal, Autor de todo bien,<br/>eres Tú el Anciano de días.<br/>Y para siempre entonaremos<br/>el canto eterno de redención.</lines>
+    </verse>
+  </lyrics>
+</song>

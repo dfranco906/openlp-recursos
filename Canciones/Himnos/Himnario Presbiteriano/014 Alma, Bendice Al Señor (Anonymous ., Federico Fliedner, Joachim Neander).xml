@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-21T16:38:28">
+  <properties>
+    <titles>
+      <title>014 Alma, Bendice Al Señor</title>
+      <title>14 Alma, Bendice Al Señor</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="words">Joachim Neander</author>
+      <author type="translation">Federico Fliedner</author>
+      <author type="music">Anonymous .</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>HIMNOS</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Alma, bendice al Señor, Rey potente de gloria;<br/>de sus mercedes esté viva en ti la memoria.<br/>¡Oh, despertad, arpa y salterio! entonad<br/>himnos de honor y victoria.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Alma, bendice al Señor que los orbes gobierna,<br/>y te conduce paciente con mano paterna;<br/>te perdonó, de todo mal te libró,<br/>porque su gracia es eterna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Alma, bendice al Señor, de tu vida la fuente,<br/>que te creó, y en salud te sostiene clemente;<br/>tu defensor en todo trance y dolor,<br/>su diestra es omnipotente.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Alma, bendice al Señor por su amor infinito;<br/>con todo el pueblo de Dios su alabanza repito:<br/>Dios, mi salud, de todo bien plenitud,<br/>¡seas por siempre bendito!<br/>Amén.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:10">
+  <properties>
+    <titles>
+      <title>De este valle de sombra de muerte</title>
+    </titles>
+    <comments>
+      <comment>AC084
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="090"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>De este valle de sombra de muerte,<br/>Voy camino al celeste hogar;<br/>La Ciudad celestial es mi patria;<br/>En el mundo no tengo lugar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fundamentos seguros y eternos,<br/>Calles llenas de felicidad;<br/>A sus puertas el gran universo,<br/>En sus plazas el Dios de bondad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nada sucio será admitido,<br/>No podría sufrir esa luz;<br/>¡Oh! si quieres entrar por sus puertas,<br/>Hay limpieza y perdón en Jesús.<br/>____</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">    Es de Dios la ciudad con cimientos,<br/>    Es de Dios la ciudad celestial.<br/>    ¡Qué felices son los que la hallan!<br/>    Su disfrute será eternal.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

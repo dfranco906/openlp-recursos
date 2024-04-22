@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-21T02:06:43">
+  <properties>
+    <titles>
+      <title>004 Padre en los Cielos</title>
+      <title>4 Padre en los cielos</title>
+    </titles>
+    <copyright>© 1966 Christian Publications, Inc.</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="words">Edward Cooper</author>
+      <author type="translation">Ellen de Eck</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>HIMNOS</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Padre en los cielos, con amor <br/>Ofreces vida al pecador. <br/>Ante tu trono, en humildad, <br/>Perdón pedimos, en tu bondad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Verbo encarnado, a tu grey <br/>Eres fiel Sacerdote, Rey. <br/>Ante tu trono, en humildad, <br/>Pedimos gracia, amor, piedad. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Consolador, tu aliento es <br/>Divino Guía a nuestros pies. <br/>Ante tu trono, en humildad, <br/>Rogamos, "Haz hoy tu voluntad." </lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Padre, Hijo, Santo Espíritu, <br/>Un Dios, Autor de la salud, <br/>Ante tu trono, en humildad, <br/>Damos loor a la Trinidad.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:11">
+  <properties>
+    <titles>
+      <title>El Señor está en medio de ti</title>
+    </titles>
+    <comments>
+      <comment>AC022, CSG053
+</comment>
+    </comments>
+    <copyright>Sof 3:17</copyright>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="044"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>El Señor está en medio de ti<br/>Poderoso, poderoso.<br/>Él salvará, se gozará sobre ti<br/>Con alegría; callará de amor.<br/>Se gozará sobre ti con cántico.<br/>El Señor está en medio de ti<br/>Poderoso, poderoso, poderoso.</lines>
+    </verse>
+  </lyrics>
+</song>

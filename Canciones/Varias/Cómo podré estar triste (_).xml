@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:10">
+  <properties>
+    <titles>
+      <title>Cómo podré estar triste</title>
+    </titles>
+    <comments>
+      <comment>Sankey's Sacred Songs and Solos 1104
+AC250, H414
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="042"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>¿Cómo podré estar triste,<br/>Cómo por sombras ir,<br/>Cómo sentirme sólo<br/>Y en el dolor vivir,<br/>Si Cristo es mi consuelo,<br/>Mi amigo siempre fiel,<br/>// Si aún las aves tienen<br/>Seguro asilo en Él? //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nunca te desalientes,<br/>Oigo al Señor decir,<br/>Y en su palabra fiado,<br/>Hago al dolor huir.<br/>A Cristo, paso a paso,<br/>Yo sigo sin cesar,<br/>// Y todas sus bondades<br/>Por siempre me ha de dar. //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Siempre que soy tentado,<br/>O que en la prueba estoy,<br/>Más cerca de Él camino<br/>Y protegido voy.<br/>Si en mí la fe desmaya<br/>Y caigo en la ansiedad,<br/>// Tan sólo Él me levanta,<br/>Me da seguridad. //<br/>____</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">    Feliz, cantando alegre,<br/>    Yo vivo siempre aquí;<br/>    Si Él cuida de las aves,<br/>    Cuidará también de mí.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

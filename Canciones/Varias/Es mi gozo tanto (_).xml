@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:11">
+  <properties>
+    <titles>
+      <title>Es mi gozo tanto</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="180"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Es mi gozo tanto que sin cesar yo canto<br/>Al Señor Jesús. Él me da alegría,<br/>Sacia el alma mía, con su santa luz.<br/><br/>Antes extraviado por mi senda caminé,<br/>Mas Cristo por su gracia me sacó con su poder.<br/>Hoy llena de alegría canta el alma mía:<br/>¡Gloria a Él!</lines>
+    </verse>
+  </lyrics>
+</song>

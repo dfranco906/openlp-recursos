@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Cantaré de tu amor</title>
+    </titles>
+    <verseOrder>v1 v2 c1 b1</verseOrder>
+    <authors>
+      <author>Danilo Montero</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Por mucho tiempo busque, una razón de vivir, en medio de mil preguntas, tu amor me respondió</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ahora veo la luz, y ya no tengo temor, tu reino vino a mi vida, y ahora vivo para ti</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cantaré de tu amor, rendiré mi corazón ante tí, tu serás, mi pasión, y mis pasos se guiarán con tu voz</lines>
+    </verse>
+    <verse name="b1">
+      <lines>//Mi Jesús y mi Rey, de tu gran amor cantaré//</lines>
+    </verse>
+  </lyrics>
+</song>

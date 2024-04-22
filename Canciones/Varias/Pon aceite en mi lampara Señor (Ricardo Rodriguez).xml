@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:58">
+  <properties>
+    <titles>
+      <title>Pon aceite en mi lampara Señor</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Ricardo Rodriguez</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>//Pon aceite en mi lámpara Señor, pon aceite en mi lámpara Señor, que yo quiero servirte con amor, pon aceite en mi lámpara Señor//</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Señor Jesús eres mi vida, Señor Jesús eres mi amor, //salvaste mi alma perdida, por eso te alabo con el corazón//</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:10">
+  <properties>
+    <titles>
+      <title>De gloria en gloria te veo</title>
+    </titles>
+    <comments>
+      <comment>
+</comment>
+    </comments>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="258"/>
+      <songbook name="OTRAS" entry="BCN 528"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">De gloria en gloria te veo<br/>Cuanto más te conozco,<br/>Quiero saber más de ti;<br/>Mi Dios cual buen alfarero<br/>Quebrántame, transfórmame<br/>Moldéame a tu imagen, Señor.<br/></lines>
+      <lines>// Quiero ser más como tú,<br/>Ver la vida como tú,<br/>Saturarme de tu Espíritu<br/>Y reflejar al mundo tu amor. //<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

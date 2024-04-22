@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:58">
+  <properties>
+    <titles>
+      <title>Te daré alabanza y honor</title>
+    </titles>
+    <verseOrder>v1 v2 c1 b1</verseOrder>
+    <authors>
+      <author>Marcos Witt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu sangre me redimió, para darme la luz y la paz, tu vida se derramó, por mi maldad se entregó</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu amor incondicional, me abrazó con dolor y pasión, mi vida te ofreceré, mi canto levantaré</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alabanza y honor, poder y gloria, al Cordero de Dios al León de Judá, al único digno de honra, Jesucristo mi Rey y Señor</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Anciano de días, te quiero exaltar, postrado, te quiero adorar</lines>
+    </verse>
+  </lyrics>
+</song>

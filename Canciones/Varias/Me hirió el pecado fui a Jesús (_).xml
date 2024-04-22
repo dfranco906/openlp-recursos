@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>Me hirió el pecado fui a Jesús</title>
+    </titles>
+    <comments>
+      <comment>Himnos Vida Cristiana, 299
+AC154, CSG210
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="054"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Me hirió el pecado; fui a Jesús,<br/>Mostréle mi dolor.<br/>Perdido errante, vi su luz;<br/>Bendíjome en su amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sobre una cruz mi buen Señor<br/>Su sangre derramó<br/>Por este pobre pecador,<br/>A quien así salvó.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Venció la muerte con poder<br/>Y el cielo lo exaltó.<br/>Confiar en Él es mi placer,<br/>Morir no temo yo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Aunque Él se fue, solo no estoy;<br/>Mandó al Consolador,<br/>Divino Espíritu, que hoy<br/>Me da perfecto amor.<br/>____</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">    En la cruz, en la cruz<br/>    Do primero vi la luz,<br/>    Y las manchas de mi alma yo lavé;<br/>    Fue allí, por fe, do vi a Jesús,<br/>    Y siempre feliz con Él seré.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

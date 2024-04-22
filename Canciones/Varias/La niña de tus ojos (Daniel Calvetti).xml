@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>La niña de tus ojos</title>
+    </titles>
+    <authors>
+      <author>Daniel Calvetti</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>//Me viste a mi, cuando nadie me vio, me amaste a mi cuando nadie me amo//</lines>
+    </verse>
+    <verse name="c1">
+      <lines>//Y me diste nombre, yo soy tu niña, la niña de tus ojos porque me amaste a mi//</lines>
+    </verse>
+    <verse name="b1">
+      <lines>///Me amaste a mi/// ///Te amo mas que a mi vida/// más</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>La única razón</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="404"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">La única razón de mi adoración<br/>Eres Tú, mi Jesús.<br/>El único motivo para vivir<br/>Eres Tú, mi Señor.<br/></lines>
+      <lines break="optional">Mi única verdad está en ti,<br/>Eres mi luz y mi salvación.<br/>Mi único amor eres Tú, Señor,<br/>Y por siempre te alabaré.<br/></lines>
+      <lines>// Tú eres Todopoderoso,<br/>Eres grande y majestuoso;<br/>Eres fuerte, invencible,<br/>Y no hay nadie como Tú. //</lines>
+    </verse>
+  </lyrics>
+</song>

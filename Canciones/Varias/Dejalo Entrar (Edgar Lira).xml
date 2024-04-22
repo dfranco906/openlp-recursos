@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Dejalo Entrar</title>
+    </titles>
+    <authors>
+      <author>Edgar Lira</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>//Déjalo entrar y nunca mas solo estarás//</lines>
+    </verse>
+    <verse name="v1">
+      <lines>No hay mas grande amor que este, el que por a quien ama su vida da, si encuentras alguien que así te ame, abrele tu corazón y déjalo entrar.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>//Déjalo entrar y nunca mas solo estarás//</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Si alguien cree que tu vales la pena, te busca y te busca no importa que, y si Él esta a la puerta hoy y te esta llamando, abrele tu corazón y déjalo entrar</lines>
+    </verse>
+    <verse name="c3">
+      <lines>//Déjalo entrar y nunca mas solo estarás//</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Si lo dejaste entrar, tu sabrás, que tu podrás vivir, por siempre, y el entrará en ti, y nunca te dejará</lines>
+    </verse>
+  </lyrics>
+</song>

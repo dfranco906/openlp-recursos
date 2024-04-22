@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>Hay un hogar es un lugar</title>
+    </titles>
+    <comments>
+      <comment>AC304
+</comment>
+    </comments>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="375"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Hay un hogar, es un lugar<br/>Donde yo quiero estar,<br/>Y no pensar más que en ti, Jesús;<br/>Y derramar mi corazón en adoración,<br/>Y disfrutar de tu divino amor.<br/></lines>
+      <lines break="optional">Canto porque eres bueno,<br/>Canto porque eres real,<br/>Canto porque me has dado<br/>Verdadera libertad.<br/></lines>
+      <lines break="optional">Canto porque eres grande,<br/>Canto porque eres así,<br/>Canto porque me has dado<br/>La razón para vivir.<br/></lines>
+      <lines>Canto porque eres digno,<br/>Canto porque eres genial,<br/>Muero por estar contigo<br/>Y en tus brazos descansar.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

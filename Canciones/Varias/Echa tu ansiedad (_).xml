@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:11">
+  <properties>
+    <titles>
+      <title>Echa tu ansiedad</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="012"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Echa tu ansiedad<br/>Sobre el Señor,<br/>Echa tu ansiedad,<br/>Él te quiere ayudar.<br/>Todo a Jesús dejar,<br/>Siempre para Él cantar.<br/>Échala, échala sobre Él.</lines>
+    </verse>
+  </lyrics>
+</song>

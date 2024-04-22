@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:10">
+  <properties>
+    <titles>
+      <title>Cada día con Cristo</title>
+    </titles>
+    <comments>
+      <comment>Adelante Juventud 1,2:12
+AC008
+</comment>
+    </comments>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="227"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cada día con Cristo,<br/>Me llena de perfecta paz;<br/>Cada día con Cristo<br/>Le amo más y más.<br/><br/>Él me salva y guarda<br/>Y sé que pronto volverá,<br/>Y vivir con Cristo<br/>Más dulce cada día será.</lines>
+    </verse>
+  </lyrics>
+</song>

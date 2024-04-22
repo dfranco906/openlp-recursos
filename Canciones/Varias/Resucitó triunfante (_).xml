@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:13">
+  <properties>
+    <titles>
+      <title>Resucitó triunfante</title>
+    </titles>
+    <comments>
+      <comment>
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="085"/>
+      <songbook name="OTRAS" entry="AC 090"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Resucitó triunfante<br/>Jesús mi Salvador,<br/>Ya vive el Rey glorioso,<br/>Del mundo Redentor.<br/>Su dulce voz escucho,<br/>Conmigo siempre va,<br/>Palpar su mano puedo;<br/>Muy cerca está.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>En todo el mundo brota<br/>Su amor y su poder,<br/>Su gran misericordia<br/>Me sigue por doquier.<br/>Cual Buen Pastor me guía;<br/>Feliz yo vivo aquí,<br/>Pues siento su presencia.<br/>Él vive en mí.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>¡Cantad, cantad, cristianos!<br/>Con alma y voz cantad,<br/>A Cristo, Rey de gloria,<br/>Con júbilo aclamad.<br/>Él nos ha prometido<br/>Que al mundo volverá;<br/>El día ya se acerca.<br/>Jesús vendrá.<br/>____</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">    Él vive ya.<br/>    ¡Triunfante vive ya!<br/>    El victorioso Salvador<br/>    Conmigo siempre va.<br/>    Él vive ya.<br/>    ¡Sí, Cristo vive aquí!<br/>    ¡Yo sé que Cristo vive en mí!<br/>    ¡Yo sé que vive en mí!</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

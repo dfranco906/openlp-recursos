@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:13">
+  <properties>
+    <titles>
+      <title>Padre qué bueno es conocerte</title>
+    </titles>
+    <comments>
+      <comment>AC087
+</comment>
+    </comments>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="183"/>
+    </songbooks>
+    <themes>
+      <theme>Devoción;</theme>
+      <theme>Oración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Padre, qué bueno es conocerte<br/>Y escucharte hablar;<br/>Padre, qué bueno es en tu nombre<br/>Juntos alabar;<br/>Padre, qué bueno en tu presencia<br/>Cada día estar,<br/>Porque tú eres Dios mi Salvador.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Padre, elevo ante ti<br/>Mi vida y corazón;<br/>Padre, te busco con verdad,<br/>Pues gozo de tu perdón;<br/>Padre, enséñame tu gloria,<br/>Dame tu bendición,<br/>Porque tú eres Dios mi Salvador.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Padre, te quiero presentar,<br/>Ahora en oración,<br/>Seres amados que no andan<br/>En tu salvación;<br/>Padre, te pido que los toques<br/>Con tu santa unción,<br/>Porque tú eres Dios mi Salvador.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Padre, te quiero hoy servir,<br/>Contigo trabajar;<br/>Quiero que tú me hables hondo<br/>Para poder hablar,<br/>Padre, a las almas que tú buscas<br/>Con tu amor amar,<br/>Porque tú eres Dios mi Salvador.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

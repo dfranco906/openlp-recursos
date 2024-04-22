@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:10">
+  <properties>
+    <titles>
+      <title>Desde el fondo del mar</title>
+    </titles>
+    <authors>
+      <author>Marcos Vidal</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="402"/>
+    </songbooks>
+    <themes>
+      <theme>Declaración;</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Desde el fondo del mar...<br/>Del más alto lugar...<br/>Desde el hondo abismo...<br/>Te alabaré.<br/><br/>Desde mi corazón...<br/>Fuerte o débil esté...<br/>Cada instante de mi vida...<br/>Con gozo yo diré:<br/></lines>
+      <lines>Que Tú eres la roca eterna,<br/>Señor sobre cielo y tierra;<br/>Tú eres Dios.<br/>Que toda criatura adore,<br/>Que toda nación se postre a ti, Señor;<br/>Tú eres Dios.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

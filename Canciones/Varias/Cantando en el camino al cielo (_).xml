@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:10">
+  <properties>
+    <titles>
+      <title>Cantando en el camino al cielo</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="182"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Cantando en el camino al cielo,<br/>De gozo lleno el corazón;<br/>Con Cristo marcho en el sendero,<br/>Disfruto de su comunión.<br/></lines>
+      <lines>Mi corazón cargado estaba de iniquidad,<br/>Jesús borró mis culpas y me dio su libertad.<br/>Voy cantando en el camino al cielo<br/>Gloriosa y sin igual canción.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

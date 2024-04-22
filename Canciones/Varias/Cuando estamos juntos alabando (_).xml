@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:10">
+  <properties>
+    <titles>
+      <title>Cuando estamos juntos alabando</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="265"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cuando estamos juntos alabando a Dios<br/>Puede verse en ti y en mí su perfecto amor.<br/>Su palabra dice que Él habitará<br/>En las alabanzas que su pueblo le da.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fuente de agua viva es nuestro Señor<br/>Siempre mi canción será darle gloria a Él<br/>Cuando estamos juntos alabando a Dios<br/>Puede verse en ti y en mí su perfecto amor.<br/>____</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">    // Da tu alabanza al Señor,<br/>    Alabanzas a Jesús,<br/>    Y Él hará en tu corazón<br/>    Su habitación. //</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

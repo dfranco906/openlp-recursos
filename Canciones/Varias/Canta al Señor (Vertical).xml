@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Canta al Señor</title>
+    </titles>
+    <authors>
+      <author>Vertical</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Mi cristo mi Rey, nadie es como tu, toda mi vida quiero exaltar, las maravillas de tu amor</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Consuelo, refugio, torre de fuerza y poder, todo mi ser, lo que yo soy, nunca cesen de adorar</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cante al Señor toda la creación, honra y poder majestad sean Rey, incomparables promesas me das Señor</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Mi cristo mi Rey, nadie es como tu, toda mi vida quiero exaltar, las maravillas de tu amor</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Consuelo, refugio, torre de fuerza y poder, todo mi ser lo que yo soy, nunca cesen de adorar</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>Cante al Señor toda la creación, honra y poder majestad sean al Rey, montes caerán y el mar rugirá, al sonar de tu Nombre</lines>
+    </verse>
+    <verse name="c3a">
+      <lines>Canto con gozo al mirar tu poder, por siempre yo te amare y diré, incomparables promesas me das, Señor</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Todo mi ser lo que yo soy, nunca cesen de adorar</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>Cante al Señor toda la creación, honra y poder majestad sean al Rey, montes caeran y el mar rugira, al sonar de tu Nombre</lines>
+    </verse>
+    <verse name="c3b">
+      <lines>Canto con gozo al mirar tu poder, por siempre yo te amare y dire, incomparables promesas me das, Señor</lines>
+    </verse>
+  </lyrics>
+</song>

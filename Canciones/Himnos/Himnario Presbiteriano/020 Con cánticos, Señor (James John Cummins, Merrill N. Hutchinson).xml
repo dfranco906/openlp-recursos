@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-21T17:49:21">
+  <properties>
+    <titles>
+      <title>020 Con cánticos, Señor</title>
+      <title>20 Con cánticos, Señor</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">James John Cummins</author>
+      <author type="music">James John Cummins</author>
+      <author type="translation">Merrill N. Hutchinson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>HIMNOS</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Con cánticos, Señor,<br/>Mi corazón y voz<br/>Te adoran con fervor,<br/>Oh Trino, Santo Dios</lines>
+    </verse>
+    <verse name="c1">
+      <lines>En tu mansión yo te veré,<br/>De tu perdón feliz tendré.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Tu mano paternal<br/>Marcó mi senda aquí,<br/>Mis pasos, cada cual,<br/>Velados son por Ti.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Innumerables son <br/>Tus bienes y sin par,<br/>Y por compasión<br/>Los gozo sin cesar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Tú eres, oh Señor,<br/>mi sumo, todo bien;<br/>Mil lenguas tu amor<br/>Cantando siemre estén.</lines>
+    </verse>
+  </lyrics>
+</song>

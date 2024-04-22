@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>La cosecha</title>
+    </titles>
+    <verseOrder>v1 v2 c1</verseOrder>
+    <authors>
+      <author>Marcos Barrientos</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alza tus ojos y mira, la cosecha esta lista, el tiempo a llegado, la mies se esta madura</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Esfuérzate y se valiente, levántate y predica, a todas las naciones, que Cristo es la vida</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Y sera llena la tierra de su gloria, se cubrirá como las aves cubren la mar, y sera llena la tierra de su gloria, se cubrirá como las aguas cubren el mar.</lines>
+    </verse>
+  </lyrics>
+</song>

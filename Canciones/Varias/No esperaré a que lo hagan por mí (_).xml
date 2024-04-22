@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>No esperaré a que lo hagan por mí</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="340"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">No esperaré<br/>A que lo hagan por mí,<br/>Quiero ser parte del cambio.<br/>No esperaré,<br/>Pues tú me has enviado a mí<br/>A este mundo a compartir.<br/></lines>
+      <lines>No me detendré, tu palabra llevaré;<br/>Quiero ser parte del cambio.<br/>No me detendré, con lágrimas yo sembraré,<br/>Y con regocijo segaré;<br/>// Pues sólo tú, Jesús, tienes palabras<br/>De vida eterna y salvación. //<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

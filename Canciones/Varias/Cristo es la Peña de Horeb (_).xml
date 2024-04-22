@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:10">
+  <properties>
+    <titles>
+      <title>Cristo es la Peña de Horeb</title>
+    </titles>
+    <comments>
+      <comment>AC164, CSG150
+</comment>
+    </comments>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="026"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Cristo es la Peña de Horeb que está brotando<br/>Agua de vida saludable para ti.<br/>Cristo es la Peña de Horeb que está brotando<br/>Agua de vida saludable para ti.<br/></lines>
+      <lines>Ven a tomarla,<br/>Que es más dulce que la miel,<br/>Refresca el alma,<br/>Refresca todo tu ser.<br/>Cristo es la Peña de Horeb<br/>Que está brotando<br/>Agua de vida saludable para ti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Cristo es el Lirio del valle de las flores,<br/>Él es la Rosa blanca y pura de Sarón.<br/>Cristo es la vida y amor de los amores,<br/>Él es la eterna fuente de la salvación.<br/></lines>
+      <lines>Ven a tomarla,<br/>Que es más dulce que la miel,<br/>Refresca el alma,<br/>Refresca todo tu ser.<br/>Cristo es la Peña de Horeb<br/>Que está brotando<br/>Agua de vida saludable para ti.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Cristo es la Estrella también de la mañana,<br/>Él es la Aurora de un nuevo amanecer.<br/>Cristo es el Sol de justicia y de vida,<br/>Él es glorioso en su gracia y su poder.<br/></lines>
+      <lines>Ven a rendirle<br/>Hoy tu pobre corazón;<br/>Rinde tu vida,<br/>Ríndele todo tu ser.<br/>Cristo es la Peña de Horeb<br/>Que está brotando<br/>Agua de vida saludable para ti.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

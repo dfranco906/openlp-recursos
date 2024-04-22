@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>Hay una senda que el mundo no</title>
+    </titles>
+    <comments>
+      <comment>Joyas Favoritas 23
+Himnos Vida Cristiana 271
+AC046, CSG330
+</comment>
+    </comments>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="136"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hay una senda que el mundo no conoce,<br/>Hay una senda que yo pude encontrar:<br/>// En Cristo tengo la salvación de mi alma<br/>Cristo es la senda que me puede salvar. //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Las amistades y todos mis parientes<br/>Fueron las gentes que yo relacioné.<br/>// Me aborrecieron por causa de su nombre<br/>Cuando supieron que a Cristo me entregué. //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Y aquel camino de tantos sufrimientos,<br/>Aquel camino que el mundo me trazó,<br/>// Fue transformado en aquel feliz momento<br/>Cuando mi Cristo a mí me rescató. //<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

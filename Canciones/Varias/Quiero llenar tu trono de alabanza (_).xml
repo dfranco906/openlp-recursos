@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:13">
+  <properties>
+    <titles>
+      <title>Quiero llenar tu trono de alabanza</title>
+    </titles>
+    <comments>
+      <comment>AC308
+</comment>
+    </comments>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="348"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/// Quiero llenar tu trono de alabanza,<br/>Quiero llenar tu trono de adoración,<br/>Quiero adorar, postrado en tu presencia,<br/>Y proclamarte Señor. ///<br/><br/>Y proclamarte Señor.</lines>
+    </verse>
+  </lyrics>
+</song>

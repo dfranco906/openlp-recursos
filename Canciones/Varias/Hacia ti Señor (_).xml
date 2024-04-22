@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:11">
+  <properties>
+    <titles>
+      <title>Hacia ti Señor</title>
+    </titles>
+    <comments>
+      <comment>
+</comment>
+    </comments>
+    <copyright>Sal 25:1-7; 86:4; 31:1</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1 v5 c1</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="092"/>
+      <songbook name="OTRAS" entry="AC 048"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Hacia ti, Señor...<br/>Yo levanto mi alma... //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>// Enemigos hay...<br/>No sea yo confundido... //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>// Muéstrame Señor...<br/>Tus senderos de vida... //</lines>
+    </verse>
+    <verse name="v4">
+      <lines>// No te acuerdes más...<br/>De mis viejos pecados... //</lines>
+    </verse>
+    <verse name="v5">
+      <lines>// Tu secreto, oh Dios...<br/>Es con los que te temen... //<br/>____</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">    Oh Dios mío... (oh Dios mío)<br/>    Confío en ti... (confío en ti)<br/>    No me dejes, Señor,<br/>    Y no permitas que triunfen sobre mí.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

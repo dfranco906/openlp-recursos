@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:58">
+  <properties>
+    <titles>
+      <title>Remolineando</title>
+    </titles>
+    <authors>
+      <author>Dominio Publico</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Hay muchas formas de alabar Tu nombre, Y de exaltarte oh Jehová. Hay muchas formas de magnificarte, Pero ahora lo haré así</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sacó mi vida del anonimato, Me dio corona y vestido real, Así es Jehová que exalta al pequeño, Por causa de El, yo me haré más vil.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>// Remolineando, remolineando,<br/>Celebraré A Jehová//</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Remolineando, remolineando, Me haré más vil por causa de Jehová. La, La, La, La, La... /// Me haré más vil por causa de Jehová.///</lines>
+    </verse>
+  </lyrics>
+</song>

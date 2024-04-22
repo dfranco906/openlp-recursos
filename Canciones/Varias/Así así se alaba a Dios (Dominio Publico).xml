@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Así así se alaba a Dios</title>
+    </titles>
+    <authors>
+      <author>Dominio Publico</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Así, así, así se alaba a Dios , con mucha alegría y gozo. Así se alaba a Dios.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vamos alabar a Jehová con panderos y danza, en la tierra se canta, y en el cielo se oye</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Así, así, así se alaba a Dios , con mucha alegría y gozo. Así se alaba a Dios.</lines>
+    </verse>
+  </lyrics>
+</song>

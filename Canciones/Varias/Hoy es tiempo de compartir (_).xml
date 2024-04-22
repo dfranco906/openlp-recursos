@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>Hoy es tiempo de compartir</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="325"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Hoy es tiempo de compartir,<br/>Es el día, no hay que esperar.<br/>Tú y yo debemos hablar,<br/>Es tiempo de actuar.<br/>A Cristo debemos levantar,<br/>A Cristo debemos exaltar.<br/></lines>
+      <lines>En el mundo todos tienen que saber<br/>Que Jesucristo es Dios y Él es Rey.<br/>Lo vamos a predicar,<br/>Lo vamos a proclamar.<br/>El mundo vamos a cambiar.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

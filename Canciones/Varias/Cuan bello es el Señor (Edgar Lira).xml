@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Cuan bello es el Señor</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Edgar Lira</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cuan bello es el Señor, cuan hermoso es el Señor, Cuan bello es el Señor, hoy le quiero adorar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>La belleza de mi Señor, nunca se agotará, la hermosura de mi Señor, siempre resplandecerá</lines>
+    </verse>
+  </lyrics>
+</song>

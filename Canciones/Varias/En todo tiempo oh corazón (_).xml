@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:11">
+  <properties>
+    <titles>
+      <title>En todo tiempo oh corazón</title>
+    </titles>
+    <comments>
+      <comment>AC119
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="158"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+      <tag name="o">
+        <open>&lt;span style="-webkit-text-fill-color:#FFA500"&gt;</open>
+        <close>&lt;/span&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>En todo tiempo, oh, corazón,<br/>Eleva al cielo una canción;<br/>Aun cuando sombras hagan llorar,<br/>Mira al Señor y recordar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cuando por pruebas has de pasar<br/>Y el cielo queda sin contestar,<br/>Piensa que un día en su mansión<br/>Él te dirá la gran razón.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tras cada nube brilla su luz;<br/>En la tormenta está su cruz.<br/>Nada de Cristo separará;<br/>Su amor constante me seguirá.<br/>____</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">    Hizo los montes y el ancho mar,<br/>    Dijo a las aves cómo cantar,<br/>    Sembró a los astros al caminar;<br/>    Él está contigo, puedes confiar.<br/>    <tag name="o">(Él está conmigo, puedo confiar.)</tag></tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

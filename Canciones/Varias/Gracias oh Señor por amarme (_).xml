@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:11">
+  <properties>
+    <titles>
+      <title>Gracias oh Señor por amarme</title>
+    </titles>
+    <comments>
+      <comment>AC157
+</comment>
+    </comments>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="242"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Clavado en la cruz<br/>Tu sangre mi salud.<br/>Oh, Señor,<br/>Cuán grande amor. //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>// Allá en la gloria estás<br/>Y pronto volverás.<br/>Oh, Señor,<br/>Cuán grande amor. //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>// Te quiero hoy servir<br/>Y cada día vivir<br/>En tu amor,<br/>Tu inmenso amor. //<br/>____</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">    // Gracias, oh, Señor, //<br/>    Gracias por amarme a mí<br/>    Oh, Señor, oh, Señor,<br/>    Gracias por amarme a mí.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

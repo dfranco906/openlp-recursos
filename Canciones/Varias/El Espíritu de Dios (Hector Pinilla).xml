@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>El Espíritu de Dios</title>
+    </titles>
+    <authors>
+      <author>Hector Pinilla</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>El Espíritu de Dios esta en este lugar, el Espíritu de Dios se mueve en este lugar</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Esta aquí para consolar, esta aquí para liberar, esta aquí para guiar el Espíritu de Dios esta aquí</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Muévete en mi, muévete en mi, toca mi mente mi corazón, llena mi vida de tu amor, muévete en mi, Dios Espíritu, muévete en mi</lines>
+    </verse>
+  </lyrics>
+</song>

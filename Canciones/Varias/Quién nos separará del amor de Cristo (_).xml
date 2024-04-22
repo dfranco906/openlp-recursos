@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:13">
+  <properties>
+    <titles>
+      <title>Quién nos separará del amor de Cristo</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="119"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">¿Quién nos separará<br/>Del amor de Cristo?<br/>¿Quién nos alejará<br/>Del amor de nuestro Dios?<br/>Ni tribulación o angustia,<br/>Peligro, hambre o desnudez,<br/>Nos podrá separar de su amor.</lines>
+      <lines break="optional">¿Quién nos separará<br/>Del amor de Cristo?<br/>¿Quién nos alejará<br/>Del amor de nuestro Dios?<br/>Ni lo alto ni lo profundo,<br/>Ni ninguna otra cosa creada,<br/>Nos podrá separar del amor de Dios.</lines>
+      <lines>En Cristo somos más que vencedores.<br/>En Cristo somos más que ganadores.<br/>Ni la vida ni la muerte, podrán separarnos<br/>Del amor de Dios en Cristo Jesús.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

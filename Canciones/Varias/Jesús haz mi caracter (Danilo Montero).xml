@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Jesús haz mi caracter</title>
+    </titles>
+    <verseOrder>v1 c1 c2</verseOrder>
+    <authors>
+      <author>Danilo Montero</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>//Jesus haz mi caracter, mas como el tuyo, yo quiero ser//</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Porque en esta vida hay cosas que pasan que yo no entiendo, porque yo quiero demostrar tu amor a cada instante</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Hazme hacer tu voluntad y morir a mi viejo hombre, haz mi caracter mas como el tuyo yo quiero ser.</lines>
+    </verse>
+  </lyrics>
+</song>

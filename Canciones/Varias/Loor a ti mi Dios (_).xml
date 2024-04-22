@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>Loor a ti mi Dios</title>
+    </titles>
+    <comments>
+      <comment>Joyas Favoritas 2:57
+AC061, CSG274
+</comment>
+    </comments>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="077"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>¡Loor a ti, mi Dios, loor a ti!<br/>Lo grande de tu amor es para mí.<br/>Me diste un Salvador, Cristo Jesús.<br/>¡Loor a ti, Señor, loor a ti!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>¡Gloria a mi Salvador! Cristo Jesús,<br/>Él es el Pan de vida para mí.<br/>Su vida dio por mí allá en la cruz.<br/>¡Loor a ti, Señor, loor a ti!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hazme vivir, Señor, cerca de ti.<br/>La deuda de tu amor la siento en mí.<br/>Te entrego a ti mi ser, mi corazón.<br/>¡Loor a ti, Señor, loor a ti!<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

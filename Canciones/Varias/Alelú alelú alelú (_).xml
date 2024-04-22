@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:09">
+  <properties>
+    <titles>
+      <title>Alelú alelú alelú</title>
+    </titles>
+    <comments>
+      <comment>Adelante Juventud 1,2: 30
+AC003
+</comment>
+    </comments>
+    <ccliNo>23</ccliNo>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="023"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Alelú, alelú, alelú, aleluya,<br/>Load a Dios. //<br/><br/>/// Load a Dios, aleluya. ///<br/>Load a Dios.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:58">
+  <properties>
+    <titles>
+      <title>Soy Sano</title>
+    </titles>
+    <authors>
+      <author>Erickson Alexander</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>//Tu victorioso salvador digno de adoración, venciste a la muerte en la cruz por tus llagas sano soy//</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Y no daremos gloria a nadie mas, Jesucristo has venido a libertar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Soy sano, soy libre en Jesús, fue allá en aquella cruz que el venció la enfermedad, a el sea la gloria y el poder, me ha tocado con su mano he recibido sanidad.</lines>
+    </verse>
+  </lyrics>
+</song>

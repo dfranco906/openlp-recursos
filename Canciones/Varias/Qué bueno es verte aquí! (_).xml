@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:13">
+  <properties>
+    <titles>
+      <title>Qué bueno es verte aquí!</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="324"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">¡Qué bueno es verte aquí<br/>En el equipo de Dios,<br/>Donde podemos cantar a Jesús!<br/>Y recibiendo su luz,<br/>Nuestra alabanza ofrecer,<br/>Sintiendo el gozo del cielo aquí.<br/></lines>
+      <lines>// Quiero abrazarte, tú eres mi amigo,<br/>Como a mi hermano te quiero amar;<br/>Verte alabando aquí siempre conmigo,<br/>Tu mano estrechar;<br/>Estar muy cerca cuando estás triste,<br/>En la alegría contigo reír.<br/>Si andamos juntos, con toda certeza,<br/>Será así más fácil seguir. //<br/>/// Será así más fácil /// seguir.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

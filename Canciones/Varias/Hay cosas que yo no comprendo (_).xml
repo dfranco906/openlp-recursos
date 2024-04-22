@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:11">
+  <properties>
+    <titles>
+      <title>Hay cosas que yo no comprendo</title>
+    </titles>
+    <comments>
+      <comment>AC045
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="179"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hay cosas que yo no comprendo,<br/>Lugares hay do yo no iré;<br/>Pero sí sé, y es verdad,<br/>Que mi Dios es real,<br/>Porque lo siento en mi ser.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No alcanzo a comprender por qué me amó<br/>Y me salvó del mundo vil;<br/>Pero sí sé que salvo soy,<br/>Que mi Dios es real,<br/>Porque lo siento en mi ser.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">    Oh, mi Dios es real, real en mí;<br/>    Me ha lavado con su sangre carmesí.<br/>    Su dulce amor es para mí.<br/>    Oh, mi Dios es real<br/>    Porque lo siento en mi ser.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

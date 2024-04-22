@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>Más que los montes y el mar</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="341"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Más que los montes y el mar,<br/>Un río de amor fluye en mí;<br/>Y abriré mi corazón<br/>Y el Sanador me librará.<br/>Hoy soy feliz en tu verdad;<br/>Mis manos siempre alzo a ti,<br/>Cantando de tu amor que vino a la tierra.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Siento ganas de gritar,<br/>Parece una locura;<br/>Mas cuando el mundo vea la luz<br/>Cantará con gozo como yo ahora.<br/>____</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">    //// Cantaré de tu amor<br/>    Por siempre. ////</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

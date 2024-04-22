@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-21T17:24:31">
+  <properties>
+    <titles>
+      <title>019 Alabad Al Gran Rey</title>
+      <title>19 Alabad al gran rey</title>
+    </titles>
+    <copyright>© 1966 Singspiration Music</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Fanny Crosby</author>
+      <author type="music">William H. Doane</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>HIMNOS</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Solemnes resuenen las voces de amor,<br/>Con gran regocijo tributen loor.<br/>Al Rey Soberano, el buen Salvador;<br/>Dignísimo es Él del más alto honor.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alabad, alabad, alabad al gran Rey.<br/>Adorad, adorad, adoradle su grey.<br/>Es nuestro escudo, baluarte y sostén;<br/>El omnipotente por siglos, Amén.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Su amor infinito, ¿qué lengua dirá?<br/>Y, ¿quién Sus bondades jamás sondeará?<br/>Su misericordia no puede faltar<br/>Mil himnos alaben Su nombre sin par.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Inmensa la obra de Crísto en la cruz,<br/>Enorme la culpa se ve por su luz.<br/>Al mundo Él vino, nos iluminó,<br/>Y por nuestras culpas Él Justo murió.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Velad, fieles todos, velad con fervor,<br/>Que viene muy pronto Jesus, el Señor.<br/>Con notas alegres vendrá a reinar;<br/>A Su eterna gloria nos ha de llevar.</lines>
+    </verse>
+  </lyrics>
+</song>

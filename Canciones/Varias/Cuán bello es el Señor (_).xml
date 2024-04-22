@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:10">
+  <properties>
+    <titles>
+      <title>Cuán bello es el Señor</title>
+    </titles>
+    <comments>
+      <comment>AC260
+</comment>
+    </comments>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="004"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Cuán bello es el Señor,<br/>Cuán hermoso es el Señor.<br/>Cuán bello es el Señor,<br/>Hoy le quiero adorar. //<br/><br/>// La belleza de mi Señor<br/>Nunca se agotará<br/>La hermosura de mi Señor<br/>Siempre resplandecerá. //<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

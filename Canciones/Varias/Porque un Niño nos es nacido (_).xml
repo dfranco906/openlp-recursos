@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:13">
+  <properties>
+    <titles>
+      <title>Porque un Niño nos es nacido</title>
+    </titles>
+    <comments>
+      <comment>AC031
+</comment>
+    </comments>
+    <copyright>Isa 9:6</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="198"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Porque un Niño nos es nacido,<br/>El Hijo eterno de nuestro Dios.<br/>El Principado, sobre su hombro<br/>Será eterno, será de paz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oíd su nombre: es Admirable,<br/>Es Consejero y Fuerte Dios,<br/>Es Padre eterno, Rey de los siglos,<br/>Es Príncipe de Paz, es mi Señor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Él es la Fuente de vida eterna,<br/>El Pan del cielo, el Salvador;<br/>No hay otro nombre, dado al hombre;<br/>Él es supremo, Él es Señor.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

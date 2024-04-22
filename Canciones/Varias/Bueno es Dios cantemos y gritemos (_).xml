@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:09">
+  <properties>
+    <titles>
+      <title>Bueno es Dios cantemos y gritemos</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="165"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bueno es Dios, cantemos y gritemos;<br/>Bueno es Dios, hoy celebrad;<br/>Bueno es Dios, no lo dudemos más;<br/>Bueno es Dios, sí, es verdad,<br/>Y cuando pienso en su amor por mí<br/>El corazón se llena de alabanza y danza,<br/>Porque me tiene en su corazón.<br/>Cantemos todos a una voz.</lines>
+    </verse>
+  </lyrics>
+</song>

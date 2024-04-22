@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>El Señor está en éste lugar</title>
+    </titles>
+    <authors>
+      <author>Marcos Barrientos</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>////El Señor esta en este lugar////</lines>
+    </verse>
+    <verse name="c1">
+      <lines>//Para sanar, para librar, para romper toda obra de maldad, para sanar, para librar a mi alma//</lines>
+    </verse>
+  </lyrics>
+</song>

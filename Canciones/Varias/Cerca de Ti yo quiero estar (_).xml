@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:10">
+  <properties>
+    <titles>
+      <title>Cerca de Ti yo quiero estar</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="372"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Cerca de Ti yo quiero estar,<br/>Para escuchar tu voz<br/>Y aprender de Ti.<br/>Quiero ser un reflejo de tu amor,<br/>Quiero vivir sólo en tu voluntad.<br/></lines>
+      <lines>Jesús, eres mi Buen Pastor,<br/>Tú conoces mi camino.<br/>Jesús, puedo confiar en Ti,<br/>¡Oh, mi Dios! Me rindo hoy.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

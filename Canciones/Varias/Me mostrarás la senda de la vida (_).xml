@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>Me mostrarás la senda de la vida</title>
+    </titles>
+    <comments>
+      <comment>
+</comment>
+    </comments>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="074"/>
+      <songbook name="OTRAS" entry="BCN 561"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Me mostrarás la senda de la vida;<br/>En tu presencia hay plenitud de gozo,<br/>Felicidad a tu diestra para siempre,<br/>Y maravillas.<br/>Levantamos las manos a ti.<br/>//// ¡Gloria a Dios! ////<br/>En tu presencia hay plenitud de gozo<br/>Y maravillas.<br/>Levantamos las manos a ti.</lines>
+    </verse>
+  </lyrics>
+</song>

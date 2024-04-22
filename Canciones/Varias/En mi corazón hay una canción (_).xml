@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:11">
+  <properties>
+    <titles>
+      <title>En mi corazón hay una canción</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="193"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">// En mi corazón hay una canción,<br/>Que demuestra mi pasión,<br/>Para mi Rey y mi Señor;<br/>Para aquel que me amó. //<br/></lines>
+      <lines>// ¡Hermoso eres, mi Señor!<br/>¡Hermoso eres tú, amado mío!<br/>Tú eres la fuente de mi vida,<br/>Y el anhelo de mi corazón. //<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

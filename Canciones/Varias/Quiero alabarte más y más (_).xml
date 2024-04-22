@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:13">
+  <properties>
+    <titles>
+      <title>Quiero alabarte más y más</title>
+    </titles>
+    <comments>
+      <comment>CSG099
+</comment>
+    </comments>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="146"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Quiero alabarte más y más aún, //<br/>Buscar tu voluntad, tu gracia conocer,<br/>Quiero alabarte.<br/>(2ª voz)<br/>Las aves del cielo cantan para ti,<br/>Las flores del campo reflejan tu poder;<br/>Quiero cantar, quiero levantar<br/>Mis manos a ti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>// Quiero servirte más y más aún //<br/>Buscar tu voluntad, tu gracia conocer,<br/>Quiero alabarte.<br/><br/>(2ª voz)<br/>Las aves del cielo cantan para ti,<br/>Las flores del campo reflejan tu poder;<br/>Quiero cantar, quiero levantar<br/>Mis manos a ti.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>// Quiero amarte más y más aún //<br/>Buscar tu voluntad, tu gracia conocer,<br/>Quiero alabarte.<br/><br/>(2ª voz)<br/>Las aves del cielo cantan para ti,<br/>Las flores del campo reflejan tu poder;<br/>Quiero cantar, quiero levantar<br/>Mis manos a ti.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

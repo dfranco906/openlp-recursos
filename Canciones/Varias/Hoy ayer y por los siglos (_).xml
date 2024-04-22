@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>Hoy ayer y por los siglos</title>
+    </titles>
+    <comments>
+      <comment>AC118
+</comment>
+    </comments>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="156"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hoy, ayer y por los siglos<br/>Cristo es siempre fiel;<br/>Cambios hay, mas cristo<br/>Siempre permanece fiel.<br/><br/>// Gloria pues a Él. //<br/>Cambios hay, mas Cristo<br/>Siempre permanece fiel.</lines>
+    </verse>
+  </lyrics>
+</song>

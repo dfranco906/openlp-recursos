@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Al estar aquí</title>
+    </titles>
+    <verseOrder>v1 v2 c1</verseOrder>
+    <authors>
+      <author>Marcos Witt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Al estar en la presencia de tu divinidad, y al contemplar la hermosura de tu santidad, mi espíritu se alegra en tu majestad, te adoro a ti te adoro a ti</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cuando veo la grandeza de tu dulce amor, y compruebo la pureza de tu corazón, mi espíritu se alegra en tu majestad, te adoro a ti te adoro a ti</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Y al estar aquí delante de ti te adoraré, postrado ante ti mi corazón te adora oh Dios, y siempre quiero estar para adorar y contemplar tu santidad, te adoro a ti Señor, te adoro a ti</lines>
+    </verse>
+  </lyrics>
+</song>

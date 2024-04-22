@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-21T01:59:02">
+  <properties>
+    <titles>
+      <title>003 Te Loamos, Oh Dios</title>
+      <title>3 Te Loamos, Oh Dios</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">William Mackay</author>
+      <author type="music">John J. Husband</author>
+      <author type="translation">H. W. Cragin</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>HIMNOS</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Te loamos, oh Dios,<br/>con unánime voz,<br/>porque en Cristo, tu Hijo,<br/>nos diste perdón.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>¡Aleluya! Te alabamos,<br/>¡Cuán grande es tu amor!<br/>¡Aleluya! Te adoramos<br/>Bendito Señor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te loamos, Jesús,<br/>quien tu trono de luz<br/>has dejado por darnos<br/>salud en la cruz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te damos loor,<br/>santo Consolador,<br/>que nos llenas de gozo<br/>y santo valor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Unidos load,<br/>a la gran Trinidad,<br/>que es la fuente de gracia,<br/>virtud y verdad.</lines>
+    </verse>
+  </lyrics>
+</song>

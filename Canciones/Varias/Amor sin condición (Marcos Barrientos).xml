@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Amor sin condición</title>
+    </titles>
+    <verseOrder>v1 b1 c1 b</verseOrder>
+    <authors>
+      <author>Marcos Barrientos</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>De tal manera al mundo tu amaste, que hasta  tu vida entregaste tu costado abierto fue</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Fueron esas gotas de tu sangre, que mi corazón limpiaron, me hiciste un nuevo ser</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gracias, te doy gracias, por tu amor sin condición, en esa cruz. Gracias, te doy gracias,  por tu perdón la salvación, en esa cruz</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Amor sin condición</lines>
+    </verse>
+  </lyrics>
+</song>

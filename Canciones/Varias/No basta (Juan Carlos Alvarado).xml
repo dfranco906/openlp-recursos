@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>No basta</title>
+    </titles>
+    <authors>
+      <author>Juan Carlos Alvarado</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No basta solo con cantar, no basta solo con decir, no es suficiente solo con querer hacer, es necesario morir</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No basta solo con soñar, no basta solo con pedir, no es suficiente solo con querer tener, es necesario morir</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dame tu vida, esa clase de vida que sabe dar, dame tu vida, yo quiero vivir solo para Ti. Dame tu vida, resucitame en Ti yo quiero vivir solo para Ti</lines>
+    </verse>
+  </lyrics>
+</song>

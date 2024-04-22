@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:52:05">
+  <properties>
+    <titles>
+      <title>A Cristo coronad</title>
+    </titles>
+    <comments>
+      <comment>
+</comment>
+    </comments>
+    <verseOrder>v1 v2 v3 v4 v5 v6</verseOrder>
+    <authors>
+      <author type="words">Matthew Bridges</author>
+      <author type="words">Godfrey Thring</author>
+      <author type="music">George J. Elvey</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="001"/>
+      <songbook name="OTRAS" entry="AC 178"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Cristo coronad,<br/>Divino Salvador;<br/>Sentado en alta majestad,<br/>Es digno de loor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Al Rey de gloria y paz<br/>Loores tributad,<br/>Y bendecid al inmortal<br/>Por toda eternidad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A Cristo coronad,<br/>Señor de nuestro amor<br/>Al Rey triunfante celebrad,<br/>Glorioso vencedor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Potente rey de paz,<br/>El triunfo consumó,<br/>Y por su muerte de dolor,<br/>Su gran amor mostró.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A Cristo coronad,<br/>Señor de vida y luz,<br/>Con alabanzas proclamad<br/>Los triunfos de la cruz.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>A Él sólo adorad,<br/>Señor de salvación;<br/>Loor eterno tributad<br/>De todo corazón.<br/>-----</lines>
+    </verse>
+  </lyrics>
+</song>

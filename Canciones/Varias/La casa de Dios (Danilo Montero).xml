@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>La casa de Dios</title>
+    </titles>
+    <authors>
+      <author>Danilo Montero</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mejor es un día en la casa de Dios, que mil años lejos él. Prefiero un rincón en la casa de Dios, que todo el palacio de un rey</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ven conmigo a la casa de Dios, celebraremos juntos su amor, haremos fiesta en honor de aquel que nos amo</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Estando aquí en la casa de Dios, alegraremos su corazón, le brindaremos ofrendas de obediencia y amor, ¡En la casa de Dios!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Arde mi alma, arde de amor, por aquel que me dio la vida, por eso le anhela mi corazón, anhela de su compañía</lines>
+    </verse>
+  </lyrics>
+</song>

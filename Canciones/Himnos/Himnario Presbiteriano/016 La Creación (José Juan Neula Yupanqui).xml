@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-21T16:54:38">
+  <properties>
+    <titles>
+      <title>016 La Creación</title>
+      <title>16 La creación</title>
+    </titles>
+    <copyright>© 1968 Singspiration Music</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">José Juan Neula Yupanqui</author>
+      <author type="music">José Juan Neula Yupanqui</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>HIMNOS</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dios a hecho todo lo que el ojo ve;<br/>cada cosa de este mundo terrenal.<br/>Todo árbol y las plantas son de El,<br/>las estrellas y el manto celestial.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>¡Sea ya la luz! ordenó Jehová<br/>con su fuerte voz, y la luz fue ya.<br/>Hoy el buen Jesús, nuestro redentor,<br/>Brinda al mundo luz con excelso Amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A su imagen Dios formó al hombre Adán,<br/>luego hizo un a mujer Tomada de El;<br/>y los colocó en El jardín de Edén,<br/>donde habían de seguirle siempre fiel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>El perfecto gozo había en El Edén,<br/>ellos se gozaban al andar con Dios.<br/>Comunión completa había allá también<br/>al oír de Jehová la tierna voz.</lines>
+    </verse>
+  </lyrics>
+</song>

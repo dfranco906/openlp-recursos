@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Me arrodillo a tus pies</title>
+    </titles>
+    <authors>
+      <author>Dominio Publico</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Me arrodillo a tus pies, porque tu eres Señor, y no puedo resistir, el amor que tu me das</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Aquí estoy, yo vengo hoy,  //te entrego todo, a ti//</lines>
+    </verse>
+    <verse name="c2">
+      <lines>//Te alabare, te adorare//</lines>
+    </verse>
+  </lyrics>
+</song>

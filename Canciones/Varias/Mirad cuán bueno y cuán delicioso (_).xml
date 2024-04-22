@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>Mirad cuán bueno y cuán delicioso</title>
+    </titles>
+    <comments>
+      <comment>AC010
+</comment>
+    </comments>
+    <copyright>Sal 133</copyright>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="066"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Mirad cuán bueno y cuán delicioso es //<br/>Habitar los hermanos juntos en armonía,<br/>Porque allí envía el Señor,<br/>Bendición y vida eterna;<br/>Porque allí envía el Señor bendición.</lines>
+    </verse>
+  </lyrics>
+</song>

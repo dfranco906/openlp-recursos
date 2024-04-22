@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:10">
+  <properties>
+    <titles>
+      <title>Cansado del camino</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="370"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Cansado del camino,<br/>Sediento de ti;<br/>Un desierto he cruzado,<br/>Sin fuerzas he quedado,<br/>Vengo a ti.<br/></lines>
+      <lines break="optional">Luché como soldado,<br/>Y a veces sufrí,<br/>Y aunque la lucha he ganado<br/>Mi armadura he desgastado<br/>Vengo a ti.<br/></lines>
+      <lines>// Sumérgeme<br/>En el río de tu Espíritu;<br/>Necesito refrescar<br/>Este seco corazón<br/>Sediento de ti. //<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

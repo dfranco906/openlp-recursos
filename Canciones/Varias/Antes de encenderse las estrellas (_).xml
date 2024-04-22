@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:09">
+  <properties>
+    <titles>
+      <title>Antes de encenderse las estrellas</title>
+    </titles>
+    <comments>
+      <comment>AC224
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c2</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="305"/>
+    </songbooks>
+    <themes>
+      <theme>Muerte;</theme>
+    </themes>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Antes de encenderse las estrellas,<br/>Antes de existir el hombre aquí,<br/>Antes de arruinar las cosas bellas,<br/>Cristo, el Cordero, se entregó por ti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Todo el oro que aquí encontraras<br/>No compraría, no, tu redención.<br/>Todas las obras que tú aquí hicieras<br/>No lograrían nunca tu perdón.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesús, quien dio la luz a las estrellas,<br/>En densa oscuridad su vida da.<br/>Jesús, quien puso aquí cosas tan bellas,<br/>Por tu maldad Él sufre y muere allá.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oh, amigo, vente hoy a Jesucristo;<br/>No hay camino a Dios fuera de Él,<br/>Toda tu iniquidad Él ya ha visto,<br/>Por ti murió en esa cruz cruel.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">    No hubo solución aparte de la cruz<br/>    Para reconciliar y darte la salud,<br/>    Dios tuvo que entregar a su Hijo, a Jesús.<br/>    No hubo solución, sólo la cruz.</tag>
+      </lines>
+    </verse>
+    <verse name="c2">
+      <lines><tag name="it">    Dios mismo no encontró ninguna solución<br/>    Aparte de la cruz para tu salvación;<br/>    Él tuvo que entregar a su Hijo, a Jesús.<br/>    No hubo solución, sólo la cruz.</tag><br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

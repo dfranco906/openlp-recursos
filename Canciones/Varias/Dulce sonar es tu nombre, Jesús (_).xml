@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:10">
+  <properties>
+    <titles>
+      <title>Dulce sonar es tu nombre, Jesús</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="390"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Dulce sonar es tu nombre Jesús,<br/>Mi inspiración y mi fuerza eres Tú.<br/>Que tu soplo aliente mi corazón<br/>Y avive el fuego, Señor, en mí.</lines>
+      <lines>Algo nuevo, algo especial,<br/>Un torrente, una canción,<br/>Rebosa de gozo,<br/>Inunda todo mi ser.<br/><br/>/// Enciende el fuego,<br/>Enciende el fuego en mi corazón. ///</lines>
+    </verse>
+  </lyrics>
+</song>

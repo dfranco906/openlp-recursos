@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-04-03T01:23:11">
+  <properties>
+    <titles>
+      <title>2 ¡Santo! ¡Santo! ¡Santo!</title>
+      <title>002 Santo, santo, santo</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="words">Reginald Heber</author>
+      <author type="music">John  B. Dykes</author>
+      <author type="translation">Juan  B. Cabrera</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>Himno</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>¡Santo! ¡Santo! ¡Santo! Señor Omnipotente,<br/>Siempre el labio mío loores te dará;<br/>¡Santo! ¡Santo! ¡Santo! Te adoro reverente,<br/>Dios en tres personas, bendita Trinidad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>¡Santo! ¡Santo! ¡Santo! En numeroso coro,<br/>Santos escogidos te adoran sin cesar,<br/>De alegría llenos, y sus coronas de oro<br/>Rinden ante el Trono y el cristalino mar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>¡Santo! ¡Santo! ¡Santo! La inmensa muchedumbre<br/>De ángeles que cumplen tu Santa voluntad,<br/>Ante Ti se postra, bañada de tu lumbre,<br/>Ante Ti, que has sido, que eres y serás.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>¡Santo! ¡Santo! ¡Santo! Por más que esté velado<br/>E imposible sea tu gloria contemplar,<br/>Santo Tu eres sólo, y nadie hay a tu lado<br/>En poder perfecto, pureza y caridad.</lines>
+    </verse>
+    <verse name="v5">
+      <lines><br/>¡Santo! ¡Santo! ¡Santo! La gloria de tu nombre,<br/>Vemos en tus obras en cielo, tierra y mar,<br/>¡Santo! ¡Santo! ¡Santo! Te adorará todo hombre,<br/>Dios en tres personas, bendita Trinidad.</lines>
+    </verse>
+  </lyrics>
+</song>

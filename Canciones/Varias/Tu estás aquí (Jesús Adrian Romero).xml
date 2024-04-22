@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:58">
+  <properties>
+    <titles>
+      <title>Tu estás aquí</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Jesús Adrian Romero</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aunque mis ojos no te pueden ver, te puedo sentir, sé que estás aquí, aunque mis manos, no pueden tocar, tu rostro señor, sé que estás aquí</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mi corazón puede sentir tu presencia, //tú estás aquí// puedo sentir tu majestad, //tú estás aquí// mi corazón puede mirar tu hermosura, //tú estás aquí//, puedo sentir tu gran amor, //tú estás aquí//</lines>
+    </verse>
+  </lyrics>
+</song>

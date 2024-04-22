@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:13">
+  <properties>
+    <titles>
+      <title>Porque Tú eres bueno</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="219"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Porque Tú eres bueno,<br/>Porque para siempre<br/>Tu misericordia es.<br/>Cada mañana al despertar,<br/>Sé que en ti puedo confiar.<br/>Me sostienes por tu gran fidelidad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Porque Tú eres bueno,<br/>Porque tu justicia,<br/>Justicia eterna es.<br/>En ella yo me deleitaré,<br/>En tu verdad confiaré.<br/>Por tu senda de justicia guíame.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

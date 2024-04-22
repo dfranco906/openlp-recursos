@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:09">
+  <properties>
+    <titles>
+      <title>A veces he andado sin nadie</title>
+    </titles>
+    <comments>
+      <comment>AC051
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="361"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>A veces he andado<br/>Sin nadie a mi lado,<br/>A veces he sentido soledad;<br/>Entonces me doy cuenta<br/>Que Jesús nunca se ausenta,<br/>Conmigo está y me da seguridad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Doy gracias por los montes<br/>Y gracias por los valles,<br/>Y por pruebas que tenga yo que padecer;<br/>Si no hubiera problemas<br/>Tampoco habría victorias<br/>Y no sabría lo que Dios puede hacer.<br/>____</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">    Por eso, pase lo que pase, (ah)<br/>    Sea lo que sea, (ah)<br/>    En Dios yo he creído;<br/>    Creyendo seguiré.<br/>    Pase lo que pase, (ah)<br/>    Sea lo que sea, (ah)<br/>    En su palabra siempre confiaré.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

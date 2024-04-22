@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:09">
+  <properties>
+    <titles>
+      <title>Abre mis ojos oh Cristo</title>
+    </titles>
+    <authors>
+      <author>Danilo Montero</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="405"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">// Abre mis ojos, oh Cristo,<br/>Abre mis ojos te pido;<br/>Yo quiero verte,<br/>Yo quiero verte, //<br/></lines>
+      <lines>// Y contemplar tu majestad<br/>Y el resplandor de tu gloria.<br/>Derrama tu amor y poder<br/>Cuando cantamos, Santo, Santo. //<br/><br/>/// Santo, Santo, Santo, ///<br/>Yo quiero verte.</lines>
+    </verse>
+  </lyrics>
+</song>

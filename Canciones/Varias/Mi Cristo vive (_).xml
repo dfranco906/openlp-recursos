@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>Mi Cristo vive</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="131"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mi Cristo vive,<br/>Por eso es que yo vivo.<br/>Mi Cristo vive,<br/>Por Él yo tengo paz.<br/>Seguro sé que Él me dirige.<br/>Mi vida vale mucho más,<br/>Él vive en mí.</lines>
+    </verse>
+  </lyrics>
+</song>

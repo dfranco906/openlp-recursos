@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:13">
+  <properties>
+    <titles>
+      <title>Oyeme Señor oyeme</title>
+    </titles>
+    <comments>
+      <comment>AC059
+</comment>
+    </comments>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="316"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Óyeme, Señor, óyeme;<br/>Desde el alba a ti clamaré,<br/>Y tu Espíritu sentiré.<br/>¡Señor, óyeme!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Guárdame, Señor, guárdame;<br/>Tú eres Dios, en ti confiaré,<br/>Y ¿de qué jamás temeré?<br/>¡Señor, guárdame!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Guíame, Señor, guíame;<br/>En tus sendas, pues, andaré,<br/>Y tu santa Ley guardaré.<br/>¡Señor, guíame!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Úsame, Señor, úsame.<br/>Con tu salvación sáciame.<br/>De tu gran amor hablaré.<br/>¡Señor, úsame!</lines>
+    </verse>
+  </lyrics>
+</song>

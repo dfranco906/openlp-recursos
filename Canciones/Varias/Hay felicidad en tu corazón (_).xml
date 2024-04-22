@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:11">
+  <properties>
+    <titles>
+      <title>Hay felicidad en tu corazón</title>
+    </titles>
+    <comments>
+      <comment>AC163
+</comment>
+    </comments>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="237"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>¿Hay felicidad en tu corazón?<br/>Alaba a Dios.<br/>¿Hay dentro de ti desanimación?<br/>Alaba a Dios.<br/>Pues Cristo nos conoce, nos da consolación.<br/>Te sientas feliz, te sientas sin paz,<br/>Alaba a Dios.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Y siempre que ores al Señor,<br/>Alaba a Dios.<br/>Y siempre que hagas tu labor,<br/>Alaba a Dios.<br/>Él siempre anda cerca, es nuestro Creador;<br/>Pues siempre orando y trabajando,<br/>Alaba a Dios.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Si brilla su luz en tu caminar,<br/>Alaba a Dios.<br/>Si no puedes ver por donde andar,<br/>Alaba a Dios.<br/>Pues Cristo va delante, podemos confiar;<br/>Esté todo claro, esté todo oscuro,<br/>Alaba a Dios.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Y siempre orando y trabajando,<br/>Alaba a Dios.<br/>Te sientas feliz, te sientas sin paz,<br/>Alaba a Dios.<br/>Pues Cristo es fiel...<br/>Confía en Él...<br/>Alaba a Dios...<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

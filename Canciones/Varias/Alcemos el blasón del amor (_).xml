@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:09">
+  <properties>
+    <titles>
+      <title>Alcemos el blasón del amor</title>
+    </titles>
+    <comments>
+      <comment>AC136
+</comment>
+    </comments>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="139"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alcemos el blasón<br/>/// Del amor de nuestro Dios. ///<br/>En el castillo ancho de nuestro corazón<br/>Ya que el Rey con nosotros está.<br/>Que lo vean los pueblos en derredor,<br/>Que se vea aquí, que se vea allí;<br/>Alcemos alto el blasón del amor de Dios<br/>Ya que el Rey con nosotros está.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

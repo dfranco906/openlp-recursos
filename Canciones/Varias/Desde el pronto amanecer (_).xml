@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:10">
+  <properties>
+    <titles>
+      <title>Desde el pronto amanecer</title>
+    </titles>
+    <comments>
+      <comment>AC286
+</comment>
+    </comments>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="021"/>
+    </songbooks>
+    <themes>
+      <theme>Alabanza</theme>
+      <theme>Adoración;</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">// Desde el pronto amanecer,<br/>Hasta que se pone el sol,<br/>Alabad el nombre de Dios. //<br/></lines>
+      <lines>Bendito sea el Señor,<br/>Y su nombre alaben otra vez,<br/>Por todo el mundo alabad.<br/><br/>Bendito sea el Señor,<br/>Y su nombre alaben otra vez,<br/>Por toda la eternidad.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:11">
+  <properties>
+    <titles>
+      <title>Gracias Padre por ser mi Pastor</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="213"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gracias Padre por ser mi Pastor,<br/>Cada día descubro tu amor<br/>Y aunque sin entender,<br/>Te quiero agradecer:<br/>Era ciego, mas por tu amor<br/>Me hiciste ver y hoy puedo creer.</lines>
+    </verse>
+  </lyrics>
+</song>

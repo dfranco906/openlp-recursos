@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:09">
+  <properties>
+    <titles>
+      <title>Aunque la higuera no florezca</title>
+    </titles>
+    <comments>
+      <comment>
+</comment>
+    </comments>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="308"/>
+      <songbook name="OTRAS" entry="BCN 508"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aunque la higuera no florezca,<br/>Ni en las vides haya fruto;<br/>Aunque falte el producto del olivo,<br/>Y los labrados no den mantenimiento,<br/>Y las ovejas sean quitadas de la majada,<br/>Y no haya vacas en los corrales;<br/>Con todo yo me alegraré en el Señor,<br/>// Y me gozaré en el Dios de mi salvación. //</lines>
+    </verse>
+  </lyrics>
+</song>

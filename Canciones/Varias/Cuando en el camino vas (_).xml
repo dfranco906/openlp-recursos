@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:10">
+  <properties>
+    <titles>
+      <title>Cuando en el camino vas</title>
+    </titles>
+    <comments>
+      <comment>AC169
+</comment>
+    </comments>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="317"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cuando en el camino vas<br/>Pon tus ojos en Cristo,<br/>Mira a Él y no atrás;<br/>Pon tus ojos en Él.<br/>Él es un amigo fiel,<br/>Puedes depender de Él,<br/>Mira a Él y vencerás;<br/>Pon tus ojos en Él.</lines>
+    </verse>
+  </lyrics>
+</song>

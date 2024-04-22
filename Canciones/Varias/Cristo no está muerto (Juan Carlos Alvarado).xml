@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Cristo no está muerto</title>
+    </titles>
+    <authors>
+      <author>Juan Carlos Alvarado</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>///Cristo no esta muerto, El esta vivo///. Lo siento en mis manos, lo siento en mis pies, lo siento en todo mi ser</lines>
+    </verse>
+    <verse name="c2">
+      <lines>La tengo, la tengo, la tengo, la tengo, la unción esta sobre mi, gloria a Dios porque la tengo.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Mira lo que hizo Dios, Mira lo que hizo Dios, toco mi mente, sano mi cuerpo, me salvo, justo a tiempo</lines>
+    </verse>
+    <verse name="c4">
+      <lines>Por eso yo le alabaré, porque es el mismo, de ayer. Juntos le alabaremos, mira lo que hizo Dios</lines>
+    </verse>
+  </lyrics>
+</song>

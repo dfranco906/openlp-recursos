@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:09">
+  <properties>
+    <titles>
+      <title>Aunque en esta vida no tengo</title>
+    </titles>
+    <comments>
+      <comment>AC148, CSG564
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="015"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aunque en esta vida, no tengo riquezas,<br/>Sé que allá en la gloria, tengo una mansión.<br/>Cual alma perdida, entre las pobrezas,<br/>De mí, Jesucristo tuvo compasión.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Así por el mundo, yo voy caminando,<br/>De pruebas rodeado y de tentación;<br/>Pero a mi lado viene consolando<br/>Mi bendito Cristo, en la turbación.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A los pueblos todos del linaje humano<br/>Cristo quiere darles plena salvación;<br/>También una casa para cada hermano<br/>Fue a prepararles a la santa Sión.<br/>____</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">    // Más allá del sol,<br/>    Más allá del sol,<br/>    Yo tengo un hogar,<br/>    Hogar, bello hogar,<br/>    Más allá del sol. //</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

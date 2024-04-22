@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-21T03:15:28">
+  <properties>
+    <titles>
+      <title>009 ¡Al Dios de Abraham Loor!</title>
+      <title>9 Al Dios de Abraham Loor</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="words">Daniel Ben Judah</author>
+      <author type="translation">Thomas Olivers</author>
+      <author type="translation">George Paul Simmonds</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>HIMNOS</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1 ¡Al Dios de Abraham, loor! Su nombre celebrad;<br/>¡Al que era, es y aún será, magnificad!<br/>El solo, eterno Dios, de todo es Creador;<br/>al único Supremo Ser cantad loor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2 Su Santo Espíritu Cuán libres es en su obrar;<br/>Su voz por el profeta aún nos quiere hablar.<br/>En todo corazón su ley escrita está;<br/>es inmutable y siempre fiel en tierra y mar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3 La vida Dios sopló En cada humano ser;<br/>Su amor, amparo nos será sin fenecer.<br/>¡Al vivo Dios, loor! Su nombre celebrad.<br/>¡Al que era, es y aún será, magnificad!<br/>Amén.</lines>
+    </verse>
+  </lyrics>
+</song>

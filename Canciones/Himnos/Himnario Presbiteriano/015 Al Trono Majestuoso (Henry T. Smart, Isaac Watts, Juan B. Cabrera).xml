@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-21T16:44:44">
+  <properties>
+    <titles>
+      <title>015 Al Trono Majestuoso</title>
+      <title>15 Al trono majestuoso</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="words">Isaac Watts</author>
+      <author type="translation">Juan B. Cabrera</author>
+      <author type="music">Henry T. Smart</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>HIMNOS</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Al trono majestuoso<br/>del Dios de potestad,<br/>humilde vuestra frente,<br/>naciones inclinad.<br/>Él es el Ser supremo,<br/>de todo es el Señor,<br/>y nada al fin resiste<br/>a Dios el Hacedor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Del polvo de la tierra<br/>su mano nos formó,<br/>y nos donó la vida<br/>su aliento creador;<br/>después, al vernos ciegos,<br/>caídos en error,<br/>cual padre al hijo amado<br/>salud nos proveyó.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. La gratitud sincera<br/>nos dictará el cantar,<br/>y en tiernos dulces sones<br/>al cielo subirá;<br/>con los celestes himnos<br/>cantados a Jehová,<br/>la armónica alabanza<br/>doquier resonará.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Señor, a tu Palabra<br/>sujeto el mundo está,<br/>y del mortal perecen<br/>la astucia y la maldad;<br/>después de haber cesado<br/>los siglos de correr,<br/>tu amor, verdad y gloria<br/>han de permanecer.</lines>
+    </verse>
+  </lyrics>
+</song>

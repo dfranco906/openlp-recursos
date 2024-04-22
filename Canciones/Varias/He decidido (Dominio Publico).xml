@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>He decidido</title>
+    </titles>
+    <authors>
+      <author>Dominio Publico</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He decidido seguir a Cristo, he decidido seguir a Cristo, he decidido seguir a Cristo, no vuelvo atrás, no vuelvo a atrás</lines>
+    </verse>
+    <verse name="v2">
+      <lines>El rey de gloria me ha transformado, el rey de gloria me ha transformado, no vuelvo atrás no vuelvo atrás</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Si otros vuelven, yo sigo a Cristo, si otros vuelven, yo sigo a Cristo, si otros vuelven, yo sigo a Cristo, no vuelvo atrás, no vuelvo atrás</lines>
+    </verse>
+  </lyrics>
+</song>

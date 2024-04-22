@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:11">
+  <properties>
+    <titles>
+      <title>Guárdame Señor en ti</title>
+    </titles>
+    <authors>
+      <author>Still - Hillsong</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="410"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Guárdame, Señor, en ti;<br/>Quiero estar rodeado de tu amor.<br/>Cuando contra mí se eleve el mar<br/>Yo remontaré la tempestad.<br/>Padre, tú eres Rey, confiado estoy.<br/>Descanso en ti, sé que eres Dios.<br/></lines>
+      <lines break="optional">Descansaré en ti, Señor,<br/>Tu poder me da seguridad.<br/>Sobre todo tienes el control,<br/>Aun el mar se calla ante tu voz.<br/>Padre, tú eres Rey, confiado estoy.<br/>Descanso en ti, sé que eres Dios.<br/></lines>
+      <lines>Cuando contra mí se eleve el mar<br/>Yo remontaré la tempestad.<br/>Padre, tú eres Rey, confiado estoy.<br/>// Descanso en ti, sé que eres Dios. //<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

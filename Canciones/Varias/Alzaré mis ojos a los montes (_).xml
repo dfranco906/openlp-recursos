@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:09">
+  <properties>
+    <titles>
+      <title>Alzaré mis ojos a los montes</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="356"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Alzaré mis ojos a los montes.<br/>¿De dónde vendrá mi socorro?<br/>Mi socorro viene del Señor,<br/>Que hizo los cielos y la tierra.<br/></lines>
+      <lines break="optional">No dará tu pie al resbaladero<br/>Ni se dormirá el que te guarda;<br/>He aquí no se adormecerá<br/>Ni se dormirá el que guarda tu alma.<br/></lines>
+      <lines>Es tu guardador, es tu sombra,<br/>A tu mano derecha.<br/>El sol no te fatigará de día<br/>Ni la luna de noche.<br/>El Señor te guardará de todo mal,<br/>Él guardará tu alma;<br/>El Señor guardará tu salida y tu entrada,<br/>Desde ahora // y para siempre. //<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

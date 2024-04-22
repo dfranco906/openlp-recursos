@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:13">
+  <properties>
+    <titles>
+      <title>Oh Señor Tú me sacaste</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="351"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Oh Señor Tú me sacaste<br/>Del sitio donde vivía;<br/>Me lavaste con tu sangre,<br/>Me llenaste con tu vida.<br/>Vida nueva Tú me dabas<br/>En la cruz donde morías,<br/>Esa cruz en el Calvario<br/>Donde Tú diste tu vida.<br/></lines>
+      <lines>// Haz de mí un vaso nuevo, Señor,<br/>Donde otros puedan beber (oh Señor)<br/>Beber de tu agua viva,<br/>Agua que quita la sed. //</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:10">
+  <properties>
+    <titles>
+      <title>Cantad alegres a Dios</title>
+    </titles>
+    <comments>
+      <comment>AC041
+</comment>
+    </comments>
+    <copyright>Sal 100</copyright>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="017"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="pk">
+        <open>&lt;span style="-webkit-text-fill-color:#FFC0CB"&gt;</open>
+        <close>&lt;/span&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+      <tag name="bl">
+        <open>&lt;span style="-webkit-text-fill-color:blue"&gt;</open>
+        <close>&lt;/span&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines><tag name="pk">Reconoced que el Señor es Dios,</tag><br/><tag name="bl">Reconoced que el Señor es Dios,</tag><br/><br/><tag name="pk">Él nos hizo y no nosotros;</tag><br/><tag name="bl">Él nos hizo y no nosotros;</tag><br/><br/>Pueblo suyo somos y ovejas de su prado.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="pk">Entrad por sus puertas con gratitud,</tag><br/><tag name="bl">Entrad por sus puertas con gratitud,</tag><br/><br/><tag name="pk">Por sus atrios con alabanza;</tag><br/><tag name="bl">Por sus atrios con alabanza;</tag><br/><br/>Alabadle y bendecid su nombre.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><tag name="pk">Porque el Señor es bueno,</tag><br/><tag name="bl">Porque el Señor es bueno,</tag><br/><br/><tag name="pk">Para siempre su misericordia,</tag><br/><tag name="bl">Para siempre su misericordia,</tag><br/><br/>Y su verdad por todos los siglos.<br/>____</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">    Cantad alegres a Dios,<br/>    Habitantes de toda la tierra;<br/>    // Servidle con alegría, //<br/>    Venid ante su presencia<br/>    Con regocijo.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

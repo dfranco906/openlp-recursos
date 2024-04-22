@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:10">
+  <properties>
+    <titles>
+      <title>Dicen que algunos en la historia</title>
+    </titles>
+    <comments>
+      <comment>AC171
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="094"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dicen que algunos en la historia<br/>Vieron tu rostro, vieron tu gloria,<br/>Y que después, en su memoria,<br/>Quedó indeleble esa visión.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dicen que un día Tú bajaste,<br/>Que desde el monte Tú hablaste,<br/>Y en una tienda Tú moraste<br/>En medio mismo de Israel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dicen que allá en Palestina<br/>Vieron tu majestad divina,<br/>Al escuchar la voz pristina:<br/>"Este es mi Hijo, a Él oíd."</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dicen que antes que te fuiste,<br/>Cuando en el mundo Tú estuviste,<br/>A los discípulos dijiste:<br/>"Yo voy al cielo, mas volveré."<br/>____</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">    Yo quiero verte y conocerte,<br/>    Yo quiero amarte, quiero seguirte,<br/>    Yo quiero oírte, quiero sentirte,<br/>    Oh, Dios de gloria, muéstrate a mí.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

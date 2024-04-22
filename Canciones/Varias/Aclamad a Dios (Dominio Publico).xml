@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Aclamad a Dios</title>
+    </titles>
+    <authors>
+      <author>Dominio Publico</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aclamad a Dios con alegría toda la tierra, cantad la gloria de su nombre, poned la gloria en su alabanza, decid a Dios,</lines>
+    </verse>
+    <verse name="b1">
+      <lines>//Cuan asombrosas son sus obras, maravillosas, son sus obras//</lines>
+    </verse>
+    <verse name="c1">
+      <lines>//Toda la tierra te adorará, toda la tierra canta su nombre//</lines>
+    </verse>
+  </lyrics>
+</song>

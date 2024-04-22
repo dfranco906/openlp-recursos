@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:58">
+  <properties>
+    <titles>
+      <title>Nuestro Dios</title>
+    </titles>
+    <authors>
+      <author>Danny Dias</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Agua en vino cambio, los ojos de ciegos abrió, nadie como tu, no lo hay</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Brillas en la oscuridad, de lo vil nos levantas, nadie como tu, no lo hay</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mi Dios es grande, mi Dios es fuerte, siempre más alto que cualquier otro, nuestro Dios sana, grande en poder, nuestro Dios, mi Dios</lines>
+    </verse>
+    <verse name="b1">
+      <lines>//Si Dios es por nosotros, ¿quién contra nosotros?, si Dios es con nosotros, ¿quién nos podra parar?//</lines>
+    </verse>
+  </lyrics>
+</song>

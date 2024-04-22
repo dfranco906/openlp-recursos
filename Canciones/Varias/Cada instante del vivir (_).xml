@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:10">
+  <properties>
+    <titles>
+      <title>Cada instante del vivir</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="298"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cada instante del vivir<br/>Mi Padre cuídame.<br/>Aún al tiempo de morir,<br/>Libre estoy de temor.<br/>El que ve al gorrión caer,<br/>Oirá mi voz.<br/>Cada instante del vivir<br/>Mi Padre cuídame.</lines>
+    </verse>
+  </lyrics>
+</song>

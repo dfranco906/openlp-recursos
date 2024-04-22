@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:09">
+  <properties>
+    <titles>
+      <title>Bueno es alabar oh Señor tu nombre</title>
+    </titles>
+    <authors>
+      <author>Fernando Soto</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="389"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">// Bueno es alabar, oh Señor,<br/>Tu nombre,<br/>Darte gloria, honra y honor<br/>Por siempre.<br/>Bueno es alabarte, Jesús,<br/>Y gozarme en tu poder. //<br/></lines>
+      <lines>// Porque grande eres Tú,<br/>Grandes son tus obras.<br/>Porque grande eres Tú,<br/>Grande es tu amor,<br/>Grande es tu gloria. //<br/><br/>Bueno es alabar, oh Señor.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

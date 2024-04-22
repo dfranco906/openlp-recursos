@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Enviame a mi</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Jesús Adrian Romero</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>La mies es mucha, hay gran necesidad y pocos obreros al campo van, hoy muchos se pierden, viven sin dirección vagan como ovejas sin pastor</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Heme aquí envíame a mi, yo iré por aquellos que vagan sin ti, heme aquí envíame a mi, yo iré por aquellos que vagan sin ti, envíame a mi yo iré</lines>
+    </verse>
+  </lyrics>
+</song>

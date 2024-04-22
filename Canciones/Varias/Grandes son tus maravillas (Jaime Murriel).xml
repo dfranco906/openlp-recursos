@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Grandes son tus maravillas</title>
+    </titles>
+    <authors>
+      <author>Jaime Murriel</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>//Te alabare oh Señor, invocaré tu Santo Nombre, Siempre daré a conoceren los pueblos tus obras.//</lines>
+    </verse>
+    <verse name="c1">
+      <lines>//Grandes son//, Grandes son tus maravillas, //Grandes son// Grandes son tus maravillas.//</lines>
+    </verse>
+  </lyrics>
+</song>

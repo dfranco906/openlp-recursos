@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>He aquí yo haré algo nuevo</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="203"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He aquí, yo haré algo nuevo,<br/>Pronto saldrá a la luz.<br/>¿No lo conoceréis?<br/>Abriré otra vez, ríos en la soledad,<br/>Sendas en el desierto. algo nuevo haré.</lines>
+    </verse>
+  </lyrics>
+</song>

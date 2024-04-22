@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:11">
+  <properties>
+    <titles>
+      <title>En tus atrios estoy Señor Jesús</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="387"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">En tus atrios estoy, Señor Jesús,<br/>He venido ante ti para ofrecer<br/>Mi alabanza en gratitud;<br/>Tú eres digno, mi Jesús,<br/>De recibir la gloria y el honor.<br/></lines>
+      <lines break="optional">Aquí estoy, Señor, ante tu altar,<br/>Hoy entrego ante ti todo mi ser.<br/>Obra ahora en mi interior,<br/>Haz un nuevo corazón,<br/>Dirigido por tu Espíritu, Señor.<br/></lines>
+      <lines>Vengo a ofrecer, mi Señor,<br/>Mi corazón en adoración.<br/>Déjame entrar al Santo lugar,<br/>Te quiero adorar.<br/>Pongo mi ser a tus pies<br/>Cual perfume de grato olor;<br/>Quiero llenar el Santo lugar<br/>Con mi adoración.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>Nadie como Tú</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="392"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">// Nadie como Tú,<br/>Nadie más llena mi ser como Tú.<br/>Por la eternidad podría buscar,<br/>Mas no hay nadie como Tú. //</lines>
+      <lines>Tu misericordia es como un río,<br/>Tus manos traen sanidad,<br/>Los niños hallan en ti su refugio;<br/>Nadie como Tú!<br/><br/>Nadie como Tú,<br/>Nadie más llena mi ser como Tú;<br/>// Por la eternidad podría buscar,<br/>Mas no hay nadie como Tú. //</lines>
+    </verse>
+  </lyrics>
+</song>

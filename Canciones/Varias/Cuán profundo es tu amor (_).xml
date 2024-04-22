@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:10">
+  <properties>
+    <titles>
+      <title>Cuán profundo es tu amor</title>
+    </titles>
+    <comments>
+      <comment>AC044, CSG294
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>192</ccliNo>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="192"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>¡Cuán profundo es tu amor!<br/>No lo puedo comprender,<br/>Alto es para mí;<br/>¡Cuán inmenso es!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Siendo un vil pecador,<br/>Te humillaste por mí;<br/>Lo hiciste por amor,<br/>Sólo tú, Señor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Viendo tu inmensidad<br/>Y el poder de tu amor,<br/>Sólo puedo decir:<br/>Pequeño soy ante ti.<br/>____</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">    ¡Cuán profundo es tu amor<br/>    Dios de los cielos!<br/>    Más profundo que el mar<br/>    Es tu grande amor.<br/>    Alto es, inmenso es,<br/>    Profundo es, sólo tu amor.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

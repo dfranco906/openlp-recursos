@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:09">
+  <properties>
+    <titles>
+      <title>Abba Padre quiero ser solo para ti</title>
+    </titles>
+    <comments>
+      <comment>AC115
+</comment>
+    </comments>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="082"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Abba Padre quiero ser solo para ti,<br/>Quiero que mi voluntad se someta a ti.<br/>No me dejes enfriar, no me dejes ir;<br/>Abba Padre quiero ser, solo para ti.</lines>
+    </verse>
+  </lyrics>
+</song>

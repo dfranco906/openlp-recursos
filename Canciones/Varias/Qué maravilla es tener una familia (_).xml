@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:13">
+  <properties>
+    <titles>
+      <title>Qué maravilla es tener una familia</title>
+    </titles>
+    <comments>
+      <comment>AC238
+</comment>
+    </comments>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="121"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// ¡Qué maravilla es tener una familia,<br/>Una familia en Cristo Jesús! //<br/><br/>// Una familia unida,<br/>Una familia real,<br/>Una familia que ama,<br/>Una familia celestial. //<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:11">
+  <properties>
+    <titles>
+      <title>Hay un canto nuevo en mi ser</title>
+    </titles>
+    <comments>
+      <comment>AC149, CSG156, Himnos Vida Cristiana 270
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="173"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hay un canto nuevo en mi ser,<br/>Es la voz de mi Jesús<br/>Que me dice: ven a descansar,<br/>Tu paz conquisté en la cruz.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tengo, de su gracia celestial,<br/>Gozo en su santo amor,<br/>Y riquezas fluyen a raudal<br/>Desde el trono del Señor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Por las aguas hondas me llevó,<br/>Pruebas en mi senda hallé;<br/>Mas por el sendero me guió<br/>Y sus huellas seguiré.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cristo en las nubes volverá,<br/>Bajo el bello cielo azul;<br/>Él entonces mi alma llevará<br/>A vivir en gloria y luz.<br/>____</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">    Cristo, Cristo, Cristo,<br/>    Nombre sin igual;<br/>    Llena siempre mi alma<br/>    De esa nota celestial.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

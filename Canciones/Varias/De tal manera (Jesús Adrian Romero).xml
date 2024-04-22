@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>De tal manera</title>
+    </titles>
+    <authors>
+      <author>Jesús Adrian Romero</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>De tal manera me amo, que su vida no escatimo, hasta el final El se entrego, y a la muerte fue porque me amo,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>De tal manera me amo, que no hay forma en que podre pagar, el precio de su grande amor, pero toda mi alma quiero dar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Por su amor, yo viviré, de su amor yo cantare, con mi Jesús caminare, por que el me amó a mi</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Por su amor, yo viviré, de su amor yo cantare, con mi Jesús caminare, por que el murió por mi</lines>
+    </verse>
+  </lyrics>
+</song>

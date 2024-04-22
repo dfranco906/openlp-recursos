@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:11">
+  <properties>
+    <titles>
+      <title>Estan pasando tantas cosas</title>
+    </titles>
+    <comments>
+      <comment>AC121
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c2</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="061"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Están pasando tantas cosas<br/>En el mundo que nos toca hoy vivir,<br/>Y a veces cuando yo me desespero,<br/>Oigo una suave voz: confía en mí.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No escuches otros argumentos<br/>Que te dicen no funciona Dios aquí.<br/>Tras el caos y el dolor estoy obrando,<br/>No lo dudes ni una vez, confía en mí.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Señor, si tú así lo dices,<br/>Tu palabra si que vale para mí;<br/>Aunque caiga todo lo que aquí existe,<br/>Tú me bastas, oh, mi Dios, confío en ti.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">    Sí en mí, éste es mi mundo;<br/>    Sí en mí, yo tengo todo poder.<br/>    Soy tu Dios, no te abandono;<br/>    Cree en mí, que no hay por qué temer.</tag>
+      </lines>
+    </verse>
+    <verse name="c2">
+      <lines><tag name="it">    Sí en ti, éste es tu mundo,<br/>    Sí en ti, tú tienes todo poder.<br/>    Tú eres Dios, no me abandonas,<br/>    Creo en ti y no hay por qué temer.</tag><br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:09">
+  <properties>
+    <titles>
+      <title>Bendito es el Señor por su gran amor</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="267"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bendito es el Señor por su gran amor.<br/>Bendito es el Señor por su poder.<br/><br/>// Te alabamos Señor, con sinceridad<br/>Nos rendimos a ti, con integridad. //</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:11">
+  <properties>
+    <titles>
+      <title>Es Jesús la roca fiel</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="009"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Es Jesús, la Roca fiel es Dios.<br/>Eterno Juez es Él, mi fe está en Él,<br/>Mi alma siempre a Él le confiaré. //<br/><br/>¿Quién nos podrá separar<br/>Del amor del Señor? ¿Quién podrá?<br/>¿Acaso aflicción, tribulación o dolor,<br/>Angustia o temor? ¿Quién podrá?<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

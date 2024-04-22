@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:13">
+  <properties>
+    <titles>
+      <title>Ojalá fuesen ordenados</title>
+    </titles>
+    <comments>
+      <comment>AC089
+</comment>
+    </comments>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="296"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Ojalá fuesen ordenados,<br/>Para guardar tus estatutos,<br/>Todos mis pasos y caminos,<br/>Todo mi corazón.<br/></lines>
+      <lines break="optional">Ojalá fuese mi delicia<br/>Toda tu Ley y tu justicia,<br/>Todos los dichos de tu gracia,<br/>Dentro del corazón.<br/></lines>
+      <lines>Entonces yo no pecaría contra ti;<br/>Tu Espíritu me vivificaría a mí.<br/>Sabio sería y entendido,<br/>Gloria tendría en mi camino,<br/>Gozo y paz y buen sentido.<br/>/// ¡Maravilloso don! ///</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:09">
+  <properties>
+    <titles>
+      <title>Bendeciré de corazón</title>
+    </titles>
+    <comments>
+      <comment>AC220
+</comment>
+    </comments>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="230"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="pk">
+        <open>&lt;span style="-webkit-text-fill-color:#FFC0CB"&gt;</open>
+        <close>&lt;/span&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bendeciré de corazón<br/>Al solo Dios que da perdón,<br/>Y mientras tenga aliento en mi<br/><chord name="M"/> <tag name="pk">Sus alabanzas cantaré</tag><br/><chord name="H"/> Y luego en gloria alabaré<br/>Con multitudes ya allí.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Feliz aquel que cree en Él,<br/>Dios soberano, grande y fiel,<br/>Quien puso el firmamento allí.<br/><chord name="M"/> <tag name="pk">Dios sus promesas cumplirá,</tag><br/><chord name="H"/> Al alma hambrienta pan dará<br/>Y salvará a su pueblo aquí.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dios a los ciegos luz dará,<br/>Al débil Él restaurará,<br/>Derramará su bendición.<br/><chord name="M"/> <tag name="pk">La viuda halla en Él solaz,</tag><br/><chord name="H"/> El huérfano seguridad<br/>Y el preso su consolación.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bendeciré de corazón<br/>Al solo Dios que da perdón,<br/>Y mientras tenga aliento en mi<br/><chord name="M"/> <tag name="pk">Sus alabanzas cantaré</tag><br/><chord name="H"/> Y luego en gloria alabaré<br/>Con multitudes ya allí.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

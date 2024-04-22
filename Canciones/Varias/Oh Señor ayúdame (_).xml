@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:13">
+  <properties>
+    <titles>
+      <title>Oh Señor ayúdame</title>
+    </titles>
+    <comments>
+      <comment>Palabras Fieles, 78
+AC103
+</comment>
+    </comments>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="306"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh Señor, ayúdame a rescatar un alma hoy;<br/>Del engaño en que está,<br/>Salvarla tú podrás.<br/>Lléname de compasión;<br/>Ayúdame, Señor,<br/>A traer un alma hoy a conocer tu amor.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

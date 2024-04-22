@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>Me gozaré y alegraré y cantaré</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="359"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">// Me gozaré, me alegraré,<br/>Y cantaré al Señor,<br/>Porque han llegado las bodas<br/>Del Cordero de Dios. //<br/></lines>
+      <lines>// Y a su esposa se le ha concedido<br/>Que se vista de lino fino,<br/>Lino limpio y resplandeciente,<br/>Para recibir al Rey. //</lines>
+    </verse>
+  </lyrics>
+</song>

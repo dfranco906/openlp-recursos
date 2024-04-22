@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-21T17:10:14">
+  <properties>
+    <titles>
+      <title>017 ¡Cuán Grande Es Él!</title>
+      <title>17 Cuan grande es Él</title>
+    </titles>
+    <copyright>© 1955 Manna Music</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Stuart K. Hine</author>
+      <author type="music">Stuart K. Hine</author>
+      <author type="translation">A. W. Hotton</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>HIMNOS</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Señor, mi Dios, al contemplar los cielos,<br/>el firmamento y las estrellas mil,<br/>al oír tu voz en los potentes truenos<br/> y ver brillar al sol en su cenit</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Mi corazón se llena de emoción, <br/>¡Cuán Grande es El! ¡Cuán Grande es El! <br/>Mi corazón se llena de emoción<br/>¡Cuán Grande es Él! ¡Cuan Grande es Él!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Al recorrer los montes y los valles<br/>Y ver las bellas flores al pasar,<br/>Al escuchar el canto de las aves<br/>Y el murmurar del claro manantial.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cuando recuerdo del Amor divino<br/>Que desde el cielo al Salvador envió,<br/>Aquel Jesús que por salvarme vino<br/>Y en una cruz sufrió por mí y murió.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cuando el Señor me llame a su presencia,<br/>Al dulce hogar, el cielo de esplendor,<br/>Le adoraré cantando la grandeza<br/>De su poder y su infinito Amor.</lines>
+    </verse>
+  </lyrics>
+</song>

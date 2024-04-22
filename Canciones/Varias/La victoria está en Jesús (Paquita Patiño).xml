@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>La victoria está en Jesús</title>
+    </titles>
+    <authors>
+      <author>Paquita Patiño</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="071"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">La victoria está en Jesús,<br/>Sólo tienes que pensar<br/>Que mayor es el poder de Dios<br/>Que el poder de Satanás.</lines>
+      <lines break="optional">La victoria está en Jesús,<br/>Sólo tienes que saber,<br/>Que aunque pasen malos tiempos,<br/>Donde el mundo se destruye,</lines>
+      <lines>// Que aunque estés pasando pruebas,<br/>El Señor te ayudará,<br/>Te dará una salida<br/>Para poder soportar,<br/>Extenderá su mano amiga,<br/>Te dirá por donde andar,<br/>Multiplicará tus fuerzas y te consolará. //</lines>
+    </verse>
+  </lyrics>
+</song>

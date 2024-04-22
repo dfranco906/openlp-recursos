@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:58">
+  <properties>
+    <titles>
+      <title>Tu mano me sostiene</title>
+    </titles>
+    <verseOrder>v c</verseOrder>
+    <authors>
+      <author>Dominio Publico</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu mano me sostiene, tu Espíritu me alienta y siempre en victoria tu me llevaras</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vivo solo para Cristo y nadie mas, solo en Jesús encontré la paz, el me llena de su Espíritu y amor, por siempre cantaré, soy mas que vencedor</lines>
+    </verse>
+  </lyrics>
+</song>

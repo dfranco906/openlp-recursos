@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:58">
+  <properties>
+    <titles>
+      <title>Renuévame</title>
+    </titles>
+    <authors>
+      <author>Marcos Witt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Renuévame, Señor Jesús, ya no quiero ser igual, renuévame, Señor Jesús, pon en mi tu corazón.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Porque todo lo que hay dentro de mi, necesita ser cambiado Señor, porque todo lo que hay dentro de mi corazón, necesita mas de ti</lines>
+    </verse>
+  </lyrics>
+</song>

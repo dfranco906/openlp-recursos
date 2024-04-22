@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:09">
+  <properties>
+    <titles>
+      <title>Ante el trono del gran Dios</title>
+    </titles>
+    <comments>
+      <comment>AC303
+</comment>
+    </comments>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="411"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ante el trono del gran Dios<br/>Tengo un perfecto Defensor,<br/>Un Mediador, llamado Amor,<br/>Que siempre aboga allí por mí.<br/>Grabado en sus manos estoy<br/>Y escrito en su corazón;<br/>Vive en el cielo, el Salvador,<br/>// Me guarda un sitio junto a sí. //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Si Satanás me hace buscar<br/>La culpa que hay dentro de mí,<br/>Alzo la vista y allí está<br/>Quien al pecado puso fin.<br/>Mi alma es libre y es así<br/>Porque mi Salvador murió;<br/>Le satisface al justo Dios<br/>// Mirarle y perdonarme a mí. //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He aquí el Cordero que murió<br/>Es mi justicia y perfección,<br/>El inmutable gran "Yo Soy",<br/>El Rey de gracia, gloria y paz.<br/>Uno con Él, soy inmortal;<br/>Su sangre mi alma redimió,<br/>Mi vida escondida está<br/>// Con Él, Jesús mi Salvador. //<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

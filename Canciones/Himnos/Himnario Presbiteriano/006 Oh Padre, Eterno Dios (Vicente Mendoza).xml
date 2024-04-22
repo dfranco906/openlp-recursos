@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-21T02:42:44">
+  <properties>
+    <titles>
+      <title>006 Oh Padre, Eterno Dios</title>
+      <title>6 Oh Padre, Eterno Dios</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="words">Vicente Mendoza</author>
+      <author type="music">Vicente Mendoza</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>HIMNOS</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1 ¡Oh Padre, eterno Dios!<br/>Alzamos nuestra voz en gratitud<br/>De cuanto tú nos das <br/>con sin igual amor,<br/>Hallando nuestra paz En Ti, Señor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2 ¡Bendito Salvador!<br/>Te damos con amor el corazón;<br/>Y aquí nos puedes ver<br/>que humildes a tu altar,<br/>Venimos a ofrecer Precioso don.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3 ¡Espíritu de Dios!<br/>Escucha nuestra voz, y tu bondad<br/>Derrame en nuestro ser<br/>Divina claridad,<br/>Para poder vivir En santidad.</lines>
+    </verse>
+  </lyrics>
+</song>

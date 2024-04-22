@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:13">
+  <properties>
+    <titles>
+      <title>Quieres ser salvo de toda maldad</title>
+    </titles>
+    <comments>
+      <comment>AC094, CSG311, Himnos Vida Cristiana 290
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="204"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>¿Quieres ser salvo de toda maldad?<br/>Tan sólo hay poder en mi Jesús.<br/>¿Quieres vivir y gozar santidad?<br/>Tan sólo hay poder en Jesús.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>¿Quieres ser libre de orgullo y pasión?<br/>Tan sólo hay poder en mi Jesús.<br/>¿Quieres vencer toda cruel tentación?<br/>Tan sólo hay poder en Jesús.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>¿Quieres servir a tu Rey y Señor?<br/>Tan sólo hay poder en mi Jesús.<br/>Ven y ser salvo podrás en su amor.<br/>Tan sólo hay poder en Jesús.<br/>____</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">    Hay poder, poder, sin igual poder,<br/>    En Jesús quien murió;<br/>    Hay poder, poder, sin igual poder,<br/>    En la sangre que Él vertió.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

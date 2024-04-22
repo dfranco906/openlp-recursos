@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-21T17:16:22">
+  <properties>
+    <titles>
+      <title>018 Nunca, Dios Mío, Cesará Mi Labio</title>
+      <title>18 Nunca, Dios Mío, Cesará Mi Labio</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="words">Friedrich F. Flemming</author>
+      <author type="music">Friedrich F. Flemming</author>
+      <author type="translation">Juan B. Cabrera</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>HIMNOS</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Nunca, Dios mío, cesará mi labio<br/>de bendecirte, de cantar tu gloria,<br/>porque conservo de tu amor inmenso<br/>grata memoria.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Cuando perdido en mundanal sendero<br/>no me cercaba sino niebla oscura,<br/>Tú me miraste y alumbrome un rayo<br/>de tu luz pura.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Cuando inclinaba mi abatida frente<br/>del mal obrar al oneroso yugo,<br/>dulce reposo y eficaz alivio<br/>darme te plugo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Cuando en mis propios méritos fiaba,<br/>nunca mi pecho con amor latía;<br/>hoy de amor late, porque en tus bondades<br/>sólo confía.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Y cuando exhale mi postrer aliento<br/>para volar a tu eternal presencia,<br/>cierto hallaré con tu justicia unida<br/>dulce clemencia.</lines>
+    </verse>
+  </lyrics>
+</song>

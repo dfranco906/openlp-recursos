@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>Mi corazón oh examina</title>
+    </titles>
+    <comments>
+      <comment>AC014, CSG382, Adelante Juventud 3,4:59
+</comment>
+    </comments>
+    <copyright>Sal 139:23-24</copyright>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>205</ccliNo>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="205"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mi corazón, oh examina hoy;<br/>Mis pensamientos prueba, oh Señor;<br/>Ve si en mí perversidades hay.<br/>Por sendas rectas guíame por tu amor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dame, Señor, beber tu plenitud,<br/>Porque Tú eres fuente de salud.<br/>Sobre la cruz, en medio del dolor,<br/>Brotar la hiciste por tu gran amor.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

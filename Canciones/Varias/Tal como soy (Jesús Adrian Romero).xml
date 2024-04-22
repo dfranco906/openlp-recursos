@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:58">
+  <properties>
+    <titles>
+      <title>Tal como soy</title>
+    </titles>
+    <authors>
+      <author>Jesús Adrian Romero</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tal como soy Señor, sin nada que ofrecer mas que mi canción, no tengo mas que darte pues todo es, tuyo Señor</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tal como soy Señor, sin nada que entregar mas que el corazón, me entrego todo a ti tómame Señor, tal como soy</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Acéptame como, ofrenda de amor, como un sacrificio agradable en tu honor, grato perfume, yo quiero ser Señor</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-21T02:34:46">
+  <properties>
+    <titles>
+      <title>005 Ven, Oh Todopoderoso</title>
+      <title>5 Ven, Oh Todopoderoso</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="words">H. G. Jackson</author>
+      <author type="music">H. G. Jackson</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>HIMNOS</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1 Ven, ¡oh Todopoderoso,<br/>Adorable Creador;<br/>Padre santo, cariñoso,<br/>manifiesta tu amor.<br/>A tu trono de clemencia<br/>levantamos nuestra voz;<br/>Tu presencia te pedimos,<br/>Nuestro Padre, nuestro Dios.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2 Ven, ¡oh Salvador Divino,<br/>Dios de nuestra salvación!<br/>En nosotros haz morada,<br/>vive en nuestro corazón.<br/>Eres Tú, Jesús, benigno,<br/>eres infinito amor;<br/>Oyenos, Te suplicamos,<br/>Ven, bendícenos, Señor</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3 Ven, Espíritu Divino,<br/>danos tu precioso don;<br/>Dios consolador, inspira<br/>paz en nuesstro corazón.<br/>la herencia de los santos<br/>déjanos hallar en ti,<br/>y la vida de los cielos<br/>gozaremos ya aquí.</lines>
+    </verse>
+  </lyrics>
+</song>

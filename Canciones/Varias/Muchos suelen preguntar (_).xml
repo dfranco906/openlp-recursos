@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>Muchos suelen preguntar</title>
+    </titles>
+    <comments>
+      <comment>
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="328"/>
+      <songbook name="OTRAS" entry="AC 292"/>
+    </songbooks>
+    <themes>
+      <theme>Devoción;</theme>
+      <theme>Oración</theme>
+    </themes>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Muchos suelen preguntar<br/>una y otra vez<br/>Por qué no hay milagros hoy<br/>como los de ayer.<br/>Su gran poder aún transforma<br/>y oye la oración<br/>Pues Dios es Dios de ayer<br/>y Dios también es Dios de hoy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>¿Vives tú confuso<br/>en angustia y ansiedad?<br/>Busca a Dios, acércate,<br/>pues Él te busca a ti;<br/>En Cristo, que murió<br/>y con poder resucitó,<br/>La nueva vida hallarás:<br/>Milagro sin igual.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>¿Has pedido algo a Dios?<br/>¿Por qué no has de creer?<br/>Dios ha hecho tanto ayer<br/>y tanto hará otra vez,<br/>Porque Él está dispuesto,<br/>más allá de tu razón,<br/>A hacer lo imposible<br/>en tu vida con poder.<br/>____</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">    Puede hacerlo otra vez,<br/>    otra vez, otra vez;<br/>    Es el mismo Dios hoy<br/>    como siempre lo fue.<br/>    Hoy y ayer, por los siglos<br/>    el mismo será;<br/>    No hay razón de dudar,<br/>    puede hacerlo otra vez.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

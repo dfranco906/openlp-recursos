@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:11">
+  <properties>
+    <titles>
+      <title>En la tierra habrá conocimiento</title>
+    </titles>
+    <verseOrder>c1 v1 c1</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="263"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ve y proclámalo entre las naciones,<br/>Y da a conocer de su reino.<br/>Su pueblo sin temor, proclama al Señor,<br/>Y la tierra de su gloria llenará.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">    // En la tierra habrá<br/>    Conocimiento de la gloria del Señor,<br/>    Como las aguas cubren el mar. //</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

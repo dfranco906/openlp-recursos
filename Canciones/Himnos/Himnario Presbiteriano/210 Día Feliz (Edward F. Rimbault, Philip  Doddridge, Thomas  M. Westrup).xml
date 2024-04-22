@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2024-03-27T23:29:57">
+  <properties>
+    <titles>
+      <title>210 Día Feliz</title>
+      <title>210</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Philip  Doddridge</author>
+      <author type="music">Edward F. Rimbault</author>
+      <author type="translation">Thomas  M. Westrup</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>Himno</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Día feliz cuando escogí<br/>Servirte, mi Señor y Dios;<br/>Precioso es que mi gozo en Tí<br/>Lo muestre hoy<br/>por obra y voz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>¡Soy feliz! ¡soy feliz!<br/>Y en su favor me gozaré;<br/>En libertad y luz me vi<br/>Cuando triunfó en mí la fe.<br/>Y el raudal carmesí<br/>Salud de mi alma enferma fué.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>¡Pasó mi gran deber cumplí;<br/>De Cristo soy y mío es Él;<br/>Me atrajo con placer seguí;<br/>Su voz conoce todo fiel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Reposa, débil corazón;<br/>A tus contiendas pon ya fin;<br/>Hallé más noble posesión,<br/>Y parte en superior festín.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-21T03:00:58">
+  <properties>
+    <titles>
+      <title>008 A Nuestro Padre Dios</title>
+      <title>8 A Nuestro Padre Dios</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="words">Anonymous .</author>
+      <author type="music">Henry Carey</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>HIMNOS</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1 A nuestro Padre Dios <br/>alcemos nuestra voz En Gloria al él;<br/>Tal fue su amor que dio al Hijo que murió;<br/>En quien confío yo: ¡oh Gloria al él!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2 A nuestro Salvador <br/>demos con fe loor y Gloria al él;<br/>Su sangre derramó; con ella me lavó,<br/>Y el cielo me abrió; ¡Oh Gloria al él!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3 Espíritu de Dios,<br/>Elevo a Ti mi voz, Doy gloria a Ti;<br/>Con celestial fulgor nos muestras el amor<br/>De Cristo el Señor; ¡Oh Gloria a Ti!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4 Con gozo y con amor,<br/>cantemos con fervor al trino Dios.<br/>En la eternidad mora la Trinidad;<br/>¡Por siempre alabad al Trino Dios!</lines>
+    </verse>
+  </lyrics>
+</song>

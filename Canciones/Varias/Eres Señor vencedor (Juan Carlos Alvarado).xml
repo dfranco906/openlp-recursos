@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Eres Señor vencedor</title>
+    </titles>
+    <authors>
+      <author>Juan Carlos Alvarado</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>//Eres Señor Vencedor, el Invencible, eres campeón ganador, en batalla, eres mi Rey y mi Dios, el que cuida a su pueblo//</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Por eso yo, te canto y te alabo, porque sé que me protejes porque estoy, de tu lado. Por eso yo, te canto y te adoro, porque sé que nunca jamás me dejarás, desamparado</lines>
+    </verse>
+  </lyrics>
+</song>

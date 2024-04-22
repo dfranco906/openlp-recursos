@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:58">
+  <properties>
+    <titles>
+      <title>Salmo 149</title>
+    </titles>
+    <authors>
+      <author>Washington Indacochea D.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>//Cantad a Jehová, cántico nuevo, su alabanza sea en la congregación de los Santos. Alegrensen//</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Alaben su nombre con danza, con pandero y arpa a él, regocijensen los Santos por su gloria y canten a él</lines>
+    </verse>
+  </lyrics>
+</song>

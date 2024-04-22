@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>El es el Rey</title>
+    </titles>
+    <authors>
+      <author>Danilo Montero</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>El es el rey infinito en poder, el es el rey de los cielos, seré para él siervo fiel, pues mi vida compró con su amor,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>el es el rey lo confiesa mi ser, el es el rey de los siglos, mi vida la rindo a sus pies, el es rey sobre mi corazón</lines>
+    </verse>
+    <verse name="c1">
+      <lines>//El es el rey// el es el rey de mi vida, //el es el rey// reina con autoridad</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Su reino eterno es, su trono el cielo es, el es el rey que viene, a su pueblo a llevar</lines>
+    </verse>
+  </lyrics>
+</song>

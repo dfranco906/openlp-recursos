@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Creo en ti</title>
+    </titles>
+    <verseOrder>v1 b1 c1</verseOrder>
+    <authors>
+      <author>Julio Melgar</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quiero levantar mis manos, maravilloso Jesús, milagroso Señor, llena este lugar de tu presencia, y has descender tu poder, a los que estamos aquí</lines>
+    </verse>
+    <verse name="b1">
+      <lines>//Creo en ti Jesús, y en lo que harás en mi// en mi.... en mi</lines>
+    </verse>
+    <verse name="c1">
+      <lines>//Recibe toda la gloria, recibe toda la honra, precioso Hijo de Dios//</lines>
+    </verse>
+  </lyrics>
+</song>

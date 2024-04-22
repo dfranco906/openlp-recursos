@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>Maravilloso es Él... Cristo el Señor</title>
+    </titles>
+    <comments>
+      <comment>AC033, CSG14
+</comment>
+    </comments>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="130"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Maravilloso es Él, maravilloso es Él,<br/>Maravilloso es Cristo el Señor;<br/>Rey soberano aquí y ensalzado allí,<br/>Maravilloso es Cristo el Señor.<br/><br/>Pastor amado y Rey de los siglos,<br/>Omnipotente Dios,<br/>Nos inclinamos y le adoramos.<br/>Maravilloso es Cristo el Señor.</lines>
+    </verse>
+  </lyrics>
+</song>

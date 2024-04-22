@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:09">
+  <properties>
+    <titles>
+      <title>Bendeciré al Señor en todo tiempo</title>
+    </titles>
+    <comments>
+      <comment>Sal 34:1-4
+AC139, CSG022
+</comment>
+    </comments>
+    <ccliNo>31</ccliNo>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="031"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Bendeciré al Señor en todo tiempo,<br/>Su alabanza en mi boca estará;<br/>En el Señor se gloriará mi alma,<br/>Lo oirán los mansos y se alegrarán.<br/></lines>
+      <lines>Engrandeced al Señor conmigo,<br/>Y exaltemos a una su Nombre.<br/>Busqué al Señor y Él me oyó,<br/>Y de todos mis temores me libró.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

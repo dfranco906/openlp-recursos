@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>Me gusta estar en tu casa</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="384"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">// Me gusta estar en tu casa<br/>Celebrando con tu pueblo,<br/>Me gusta darte honor<br/>Con mis manos y mi voz. //<br/>Mis pies haces danzar,<br/>Mi corazón cantar,<br/>Me das razón para gozar, gozar.</lines>
+      <lines>// Me gusta estar en tu casa<br/>Celebrando con tu pueblo,<br/>Me gusta darte honor<br/>Con mis manos y mi voz. //<br/><br/>/// Con mis manos /// Y mi voz. (bis)</lines>
+    </verse>
+  </lyrics>
+</song>

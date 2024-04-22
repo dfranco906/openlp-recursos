@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:58">
+  <properties>
+    <titles>
+      <title>Sumergeme</title>
+    </titles>
+    <authors>
+      <author>Jesús Adrian Romero</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cansado del camino, sediento de ti, un desierto he cruzado, sin fuerzas he quedado, vengo a Ti</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Luché como soldado, y a veces sufrí, y aunque la lucha he ganado, mi armadura he desgastado, vengo a Ti</lines>
+    </verse>
+    <verse name="c1">
+      <lines>//Sumérgeme, en el río de tu Espíritu, necesito refrescar este seco corazón, sediento de Ti//</lines>
+    </verse>
+  </lyrics>
+</song>

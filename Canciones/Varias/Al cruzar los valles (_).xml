@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:09">
+  <properties>
+    <titles>
+      <title>Al cruzar los valles</title>
+    </titles>
+    <comments>
+      <comment>
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="202"/>
+      <songbook name="OTRAS" entry="AC 055"/>
+    </songbooks>
+    <themes>
+      <theme>Majestad;</theme>
+      <theme>Poder</theme>
+    </themes>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Al cruzar los valles,<br/>En el río o en el mar,<br/>Entre las estrellas<br/>Y también en la ciudad,<br/>Siento su presencia;<br/>A mi lado Cristo está,<br/>Él es mi alegría<br/>Y le quiero así cantar:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Gracias por la vida,<br/>Gracias por lo que me das,<br/>Gracias por tu obra,<br/>El amor y la amistad;<br/>Gracias por la senda<br/>Que me acabas de mostrar.<br/>Si Tú vas conmigo<br/>No me importa lo demás.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aunque el viento ruja<br/>No tendré ningún temor;<br/>Él me dio la vida,<br/>Me dará su protección.<br/>Mi vida ha cambiado<br/>Desde que le conocí;<br/>Sé que soy su hijo<br/>Y Él es todo para mí.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mi mejor amigo,<br/>Mi Jesús, mi libertad,<br/>Guía Tú mis pasos<br/>En la vida al caminar;<br/>Tenme de tu mano,<br/>No me dejes resbalar,<br/>Llévame contigo<br/>Dondequiera que Tú vas.<br/>____</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">    Cristo es mi esperanza<br/>    Y mi libertad,<br/>    Es mi compañero,<br/>    Con Él quiero andar.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

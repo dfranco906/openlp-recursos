@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Dios manda lluvia</title>
+    </titles>
+    <authors>
+      <author>Rojo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dios manda lluvia, derrama de tu Espíritu, envía hoy tu fuego, sana mis heridas, restaurame Señor</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Manda la lluvia, el rocío de tu amor, llenando las vidas, de la Tierra Oh Señor</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Manda la lluvia, el rocío de tu amor, visita mi vida, cámbiame Señor</lines>
+    </verse>
+  </lyrics>
+</song>

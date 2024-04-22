@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:13">
+  <properties>
+    <titles>
+      <title>Renuévame Señor Jesús</title>
+    </titles>
+    <comments>
+      <comment>AC282
+</comment>
+    </comments>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="249"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Renuévame Señor Jesús<br/>Ya no quiero ser igual.<br/>Renuévame Señor Jesús<br/>Quiero hacer tu voluntad.<br/></lines>
+      <lines>Porque todo lo que hay dentro de mí<br/>Necesita ser cambiado, Señor.<br/>Porque todo lo que hay<br/>Dentro de mi corazón<br/>Necesita más de ti.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:13">
+  <properties>
+    <titles>
+      <title>Oh Dios eterno tu misericordia</title>
+    </titles>
+    <comments>
+      <comment>AC088, CSG059, Joyas Favoritas 1:1, Himnos Vida Cristiana 342
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="194"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oh, Dios eterno, tu misericordia<br/>Ni una sombra de duda tendrá;<br/>Tu compasión y bondad nunca fallan,<br/>Y por los siglos el mismo serás.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>La noche oscura, el sol y la luna,<br/>Las estaciones del año también,<br/>Unen su canto cual fieles criaturas,<br/>Porque eres bueno; por siempre eres fiel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tú me perdonas me impartes el gozo;<br/>Tierno me guías por sendas de paz.<br/>Eres mi fuerza, mi fe, mi reposo,<br/>Y por los siglos mi Padre serás.<br/>____</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">    Oh tu fidelidad, oh tu fidelidad,<br/>    Cada momento la veo en mí;<br/>    Nada me falta, pues todo provees;<br/>    Grande, Señor, es tu fidelidad.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

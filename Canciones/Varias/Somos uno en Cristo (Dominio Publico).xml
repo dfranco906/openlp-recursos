@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:58">
+  <properties>
+    <titles>
+      <title>Somos uno en Cristo</title>
+    </titles>
+    <authors>
+      <author>Dominio Publico</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>//Somos uno en Cristo en Cristo, somos uno, uno solo//</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Un solo Dios, un solo Señor, una sola fe, un solo amor, Un solo Cristo, y un solo Espíritu, y ese es el consolador</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>//Somos uno en Cristo en Cristo, somos uno, uno solo//</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Un solo Dios, un solo Señor, una sola fe, un solo amor, Un solo bautismo, y un solo Espíritu, y ese es el consolador</lines>
+    </verse>
+  </lyrics>
+</song>

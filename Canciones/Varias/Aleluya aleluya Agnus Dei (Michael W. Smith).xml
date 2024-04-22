@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:09">
+  <properties>
+    <titles>
+      <title>Aleluya aleluya Agnus Dei</title>
+    </titles>
+    <authors>
+      <author>Michael W. Smith</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="408"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Aleluya, aleluya,<br/>Nuestro Dios poderoso es Rey. //<br/><br/>Aleluya, santo, santo,<br/>Eres tú, Dios, poderoso Rey.<br/>Digno eres tú, Cordero de Dios,<br/>Tú eres santo, santo;<br/>Eres tú, Dios, poderoso Rey.<br/>Digno eres tú, Cordero de Dios,<br/>Amén.</lines>
+    </verse>
+  </lyrics>
+</song>

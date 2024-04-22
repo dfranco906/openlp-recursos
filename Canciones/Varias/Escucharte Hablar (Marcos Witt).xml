@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Escucharte Hablar</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Marcos Witt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quiero escuchar tu dulce voz, rompiendo el silencio en mi ser, se que me haría estremecer, me haría llorar o reír, caería rendido ante Ti</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Y no podría estar ante Ti, escuchándote hablar sin llorar como un niño, y pasaría el tiempo así, sin querer nada mas, nada mas que escucharte hablar</lines>
+    </verse>
+  </lyrics>
+</song>

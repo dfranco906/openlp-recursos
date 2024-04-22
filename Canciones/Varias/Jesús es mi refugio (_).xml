@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>Jesús es mi refugio</title>
+    </titles>
+    <comments>
+      <comment>
+</comment>
+    </comments>
+    <copyright>Isa 32:2</copyright>
+    <verseOrder>v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="081"/>
+      <songbook name="OTRAS" entry="AC 102"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesús es mi refugio, en toda tempestad,<br/>Él es la Roca firme de la eternidad;<br/>El viento no me mueve, ni me arrebatará.<br/>// Jesús es mi refugio, //<br/>Nada me faltará.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Las turbulentas olas se aumentan sobre mí,<br/>Y las oscuras nubes me empiezan a cubrir;<br/>Mi barco navegando, llegando al Puerto está.<br/>// Jesús es mi Piloto, //<br/>En toda tempestad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesús es el Amigo de la humanidad,<br/>Él es la medicina de la enfermedad;<br/>No temeré a la muerte, pues Él me guardará.<br/>// Jesús es el Amigo, //<br/>De la humanidad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesús está llamando, Él es el General;<br/>Si tú eres un soldado prepárate también.<br/>Te llama a la batalla, acude a responder.<br/>// Es Cristo quien te llama, //<br/>Su voz te dice ven.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

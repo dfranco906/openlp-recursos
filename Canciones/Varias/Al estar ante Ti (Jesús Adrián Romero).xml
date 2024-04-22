@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:09">
+  <properties>
+    <titles>
+      <title>Al estar ante Ti</title>
+    </titles>
+    <authors>
+      <author>Jesús Adrián Romero</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="407"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Al estar ante ti,<br/>Adorando frente al mar de cristal,<br/>Entre la multitud<br/>En asombro allí me habré de postrar;<br/>Y mi canto uniré<br/>A millones proclamándote Rey,<br/>Y mi voz oirás<br/>Entre las multitudes cantar:<br/></lines>
+      <lines break="optional">Digno es el Cordero de Dios,<br/>El que fue inmolado en la cruz;<br/>Digno de la honra y el poder,<br/>La sabiduría suya es.<br/></lines>
+      <lines>// Y al que está en el trono sea el honor;<br/>Santo, Santo, Santo es el Señor.<br/>Reina por los siglos con poder;<br/>Todo lo que existe es por Él. //<br/><br/>Todo lo que existe es por Él.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:58">
+  <properties>
+    <titles>
+      <title>Te doy gloria</title>
+    </titles>
+    <verseOrder>v1 v2 c1 b1</verseOrder>
+    <authors>
+      <author>En Espíritu y Verdad</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cuan hermoso eres Jesús, son tus palabras, es tu amor. Cuan glorioso eres Jesús, es tu poder, fue tu cruz</lines>
+    </verse>
+    <verse name="v2">
+      <lines>La que me salvo me rescato, un momento ahí nos dio libertad</lines>
+    </verse>
+    <verse name="c1">
+      <lines>//Te doy gloria gloria, te doy gloria gloria, te doy gloria gloria, a ti Jesús//</lines>
+    </verse>
+    <verse name="b1">
+      <lines>////Con una corona de espinos, te hiciste rey por siempre////</lines>
+    </verse>
+  </lyrics>
+</song>

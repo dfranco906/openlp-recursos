@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:09">
+  <properties>
+    <titles>
+      <title>Al borde de tu gran trono</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="022"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Al borde de tu gran trono,<br/>Me postraré, hoy aquí.<br/>Tú reinas sobre principados,<br/>Sentado a la diestra de Dios.<br/></lines>
+      <lines>// Exáltate, oh, gran Cordero,<br/>Tú vives hoy y vivirás.<br/>Corónate con mi alabanza;<br/>Tu nombre es el Vencedor. //<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

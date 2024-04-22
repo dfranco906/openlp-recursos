@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:13">
+  <properties>
+    <titles>
+      <title>Sé que soy nada</title>
+    </titles>
+    <comments>
+      <comment>AC057
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="171"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sé que soy nada y del polvo nací,<br/>Pero tú me amas y moriste por mí.<br/>¿Qué puedo darte yo? Tan sólo mi ser.<br/>Soy de ti, soy de ti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cuando de rodillas me postro, Jesús,<br/>Veo tu grandeza y mi pequeñez.<br/>Ante la cruz sólo puedo exclamar:<br/>Soy de ti, soy de ti.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">    Toma mis manos te pido,<br/>    Toma mis labios te amo,<br/>    Toma mi vida, oh Padre;<br/>    Soy de ti, soy de ti.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

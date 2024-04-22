@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:58">
+  <properties>
+    <titles>
+      <title>Oh Moradora</title>
+    </titles>
+    <verseOrder>v1 v2 c1</verseOrder>
+    <authors>
+      <author>Dominio Publico</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>//Oh moradora de Sión alaba a Jehová, grandes son sus maravillas//.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sobre los montes y collados a mi amado buscaré, grande es su hermosura; y al estar en su presencia gozoso danzaré, al Señor alabaré.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>//Grande es Jehová, digno de alabar//. //Tu eres grande Jehová, grande es Tu Nombre//.</lines>
+    </verse>
+  </lyrics>
+</song>

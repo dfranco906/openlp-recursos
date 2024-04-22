@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:10">
+  <properties>
+    <titles>
+      <title>Con mis labios y mi vida</title>
+    </titles>
+    <comments>
+      <comment>AC161, CSG421
+</comment>
+    </comments>
+    <copyright>1Pe 2:7</copyright>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="025"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Con mis labios y mi vida<br/>Te alabo, Señor, te alabo, Señor.<br/>Con mis labios y mi vida<br/>Te alabo bendito Señor,<br/>Porque tú eres precioso para mí,<br/>Precioso para mí, precioso para mí.<br/>Porque tú eres precioso para mí,<br/>Yo te alabo, bendito Señor.</lines>
+    </verse>
+  </lyrics>
+</song>

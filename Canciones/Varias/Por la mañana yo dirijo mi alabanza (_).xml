@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:13">
+  <properties>
+    <titles>
+      <title>Por la mañana yo dirijo mi alabanza</title>
+    </titles>
+    <comments>
+      <comment>AC227, CSG094
+</comment>
+    </comments>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="287"/>
+    </songbooks>
+    <themes>
+      <theme>Alabanza</theme>
+      <theme>Devoción;</theme>
+      <theme>Oración</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Por la mañana yo dirijo mi alabanza<br/>A Dios, que ha sido y es mi única esperanza.<br/>Por la mañana yo le invoco con el alma<br/>Y le suplico que me dé su dulce calma.<br/>Y Él nos escucha, pues nos ama tanto,<br/>Y nos alivia de cualquier quebranto.<br/>Nos da su mano poderosa y fuerte<br/>Para librarnos de la misma muerte.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cuando la noche se aproxima tenebrosa<br/>En elevarle mi oración mi alma se goza,<br/>Siento su paz inagotable, dulce y grata,<br/>Porque temores y ansiedad Cristo los mata.<br/>También elevo mi cantar al cielo<br/>Cuando a la tierra baja negro velo,<br/>El sol se oculta, pero queda Cristo,<br/>A quien mis ojos en el sueño han visto.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Veo la sangre de sus manos que ha brotado,<br/>Veo la sangre borbotando en su costado,<br/>Una corona con espinas en su frente,<br/>La multitud escarneciéndole insolente.<br/>// Pero, ¡qué dicha cuando al cielo sube<br/>Lleno de gloria en majestuosa nube! //<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

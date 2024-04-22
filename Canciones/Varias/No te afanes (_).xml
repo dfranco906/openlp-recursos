@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>No te afanes</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="226"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">// No te afanes,<br/>No te afanes por la vida no te afanes.<br/>No te afanes, por vestido, por comida,<br/>No te afanes.<br/>Mira las aves del cielo, Dios las cuida,<br/>No te afanes.<br/>Mira los lirios del campo, Dios los viste,<br/>No te afanes. //<br/></lines>
+      <lines>Más importante eres tú;<br/>Busca primero el reino de Dios,<br/>Y lo demás se te añadirá, no te afanes.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:13">
+  <properties>
+    <titles>
+      <title>Oh ven ven y deléitate</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="218"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">// Oh ven, ven y deléitate en el Señor,<br/>Y Él te concederá<br/>Las peticiones de tu corazón. //<br/><br/>Confía sólo en Él, y Él te dará,<br/>Espera sólo en Él y Él hará.<br/></lines>
+      <lines>Oh ven, ven y deléitate en el Señor,<br/>Y Él te concederá<br/>/// Las peticiones de tu corazón. ///<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

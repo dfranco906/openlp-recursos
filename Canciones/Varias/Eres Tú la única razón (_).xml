@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:11">
+  <properties>
+    <titles>
+      <title>Eres Tú la única razón</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="367"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Eres Tú la única razón de mi adoración,<br/>Oh Jesús;<br/>Eres Tú la esperanza que anhelé tener,<br/>Oh Jesús.<br/>Confié en ti, me has ayudado,<br/>Tu salvación me has regalado.<br/>Hoy hay gozo en mi corazón,<br/>Con mi canto te alabaré.<br/></lines>
+      <lines>// Te alabaré, te glorificaré,<br/>Te alabaré mi buen Jesús. //<br/>En todo tiempo te alabaré.<br/>En todo tiempo te adoraré.<br/>// Te alabaré, te glorificaré,<br/>Te alabaré mi buen Jesús. //</lines>
+    </verse>
+  </lyrics>
+</song>

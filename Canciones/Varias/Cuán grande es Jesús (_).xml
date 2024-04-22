@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:10">
+  <properties>
+    <titles>
+      <title>Cuán grande es Jesús</title>
+    </titles>
+    <comments>
+      <comment>AC168
+</comment>
+    </comments>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="035"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cuán grande es Jesús,<br/>Cuán grande es su amor,<br/>Cuán grande es su luz<br/>Y su resplandor.<br/>En el Calvario su sangre vertió<br/>Y desde su trono la victoria nos dio.</lines>
+    </verse>
+  </lyrics>
+</song>

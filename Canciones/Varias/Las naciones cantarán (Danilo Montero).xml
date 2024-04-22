@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Las naciones cantarán</title>
+    </titles>
+    <authors>
+      <author>Danilo Montero</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Estamos todos unidos, adorandote Señor, alabanzas elevamos en tu presencia hoy</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Te cantamos eres digno, de suprema exaltación, las naciones cantarán, digno eres cordero de Gloria, digno eres Tú</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>Majestad adorad su majestad</title>
+    </titles>
+    <comments>
+      <comment>AC030, CSG009
+</comment>
+    </comments>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="138"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Majestad, adorad su majestad;<br/>A Jesús sea gloria, honra y loor.<br/>Majestad, reino y autoridad<br/>Fluyen del trono hacia su pueblo<br/>A Él cantad.<br/></lines>
+      <lines>Exaltad y proclamad el nombre de Cristo<br/>Magnificad, glorificad a Cristo el Rey.<br/>Majestad, adorad su majestad;<br/>// Jesús quien murió y se glorificó<br/>De reyes es Rey. //</lines>
+    </verse>
+  </lyrics>
+</song>

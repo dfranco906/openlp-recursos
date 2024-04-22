@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>Jesucristo me llamó</title>
+    </titles>
+    <comments>
+      <comment>
+</comment>
+    </comments>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="096"/>
+      <songbook name="OTRAS" entry="AC 011"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesucristo me llamó<br/>Con su tierna voz de amor,<br/>Pues vagaba yo en el error,<br/>En tinieblas llanto y corrupción,<br/>Mas un día una luz en el cielo<br/>A mí me alumbró.<br/>¡Qué gozo andar con Cristo!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Todo ahora es de color;<br/>Se acabó la oscuridad.<br/>Esa luz que dentro va de mí,<br/>Me ilumina el camino a andar.<br/>Esa fe que el Señor Jesús<br/>Me dio con su amor<br/>Alumbra mi camino.</lines>
+    </verse>
+  </lyrics>
+</song>

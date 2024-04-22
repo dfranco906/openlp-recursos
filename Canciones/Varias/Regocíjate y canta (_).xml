@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:13">
+  <properties>
+    <titles>
+      <title>Regocíjate y canta</title>
+    </titles>
+    <comments>
+      <comment>AC040
+</comment>
+    </comments>
+    <copyright>Isa 12:6</copyright>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="057"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Regocíjate y canta,<br/>Oh moradora de Sión. //<br/><br/>// Porque grande es, (3 veces)<br/>En medio de ti, el Santo de Israel. //</lines>
+    </verse>
+  </lyrics>
+</song>

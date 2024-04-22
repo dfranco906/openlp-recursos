@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>Heme aquí yo iré</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="217"/>
+      <songbook name="OTRAS" entry="BCN 543"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Heme aquí, yo iré, Señor, //<br/>Envíame a mí,<br/>Que dispuesto estoy,<br/>Llevaré tu gloria a las naciones.</lines>
+    </verse>
+  </lyrics>
+</song>

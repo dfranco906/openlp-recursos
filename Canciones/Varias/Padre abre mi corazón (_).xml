@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:13">
+  <properties>
+    <titles>
+      <title>Padre abre mi corazón</title>
+    </titles>
+    <comments>
+      <comment>AC165
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="151"/>
+    </songbooks>
+    <themes>
+      <theme>Devoción;</theme>
+      <theme>Evangelismo</theme>
+    </themes>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Padre, abre mi corazón,<br/>Quiero que me des por las almas pasión. //</lines>
+    </verse>
+    <verse name="v2">
+      <lines>// Muchos están por allí esperando<br/>Y yo aquí, sin nada que hacer. //</lines>
+    </verse>
+    <verse name="v3">
+      <lines>// Toca, Señor, con tu fuego mis labios<br/>Y dime también lo que he de decir. //<br/>____</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">    Quiero ir y orar, y contribuir<br/>    Y ser un vaso usado por ti.<br/>    Oh, Padre, abre mi corazón.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

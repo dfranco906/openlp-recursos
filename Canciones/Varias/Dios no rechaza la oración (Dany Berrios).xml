@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:10">
+  <properties>
+    <titles>
+      <title>Dios no rechaza la oración</title>
+      <title>Alaba</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 c1</verseOrder>
+    <authors>
+      <author>Dany Berrios</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="398"/>
+    </songbooks>
+    <themes>
+      <theme>Cuidado; Dios: Victoria;</theme>
+      <theme>Provisión</theme>
+    </themes>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dios no rechaza la oración.<br/>La oración es alimento.<br/>Nunca vi un justo sin respuesta,<br/>O quedar en sufrimiento.<br/>Basta solamente esperar<br/>Lo que Dios va a hacer.<br/>Cuando Él levanta sus manos<br/>Es hora de vencer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>La gente necesita entender<br/>Lo que Dios está hablando;<br/>Cuando Él parece en silencio,<br/>Es porque está trabajando.<br/>Basta solamente esperar<br/>Lo que Dios va a hacer.<br/>¡Cuando Él levanta sus manos<br/>Es hora de vencer!<br/>____</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">
+        <tag name="it">¡Oh Alaba!<br/>Si estás feliz, alaba;<br/>Si estás llorando, alaba;<br/>En la prueba, alaba;<br/>Si estás sufriendo, alaba;<br/>No importa, alaba;<br/>Tu alabanza Él escuchará.<br/></tag>
+      </lines>
+      <lines break="optional">
+        <tag name="it">Dios va al frente abriendo caminos,<br/>Quebrando cadenas, sacando espinos;<br/>Manda a sus ángeles contigo a luchar.<br/>Él abre puertas, nadie puede cerrar;<br/>Él trabaja para los que confían,<br/>Camina contigo de noche y de día.<br/></tag>
+      </lines>
+      <lines>
+        <tag name="it">¡Levanta tus manos, tu victoria llegó!<br/>¡Comienza a cantar, y alaba a Dios!<br/>¡ALABA A DIOS! ////</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:09">
+  <properties>
+    <titles>
+      <title>Bajo sus alas habito seguro</title>
+    </titles>
+    <comments>
+      <comment>Otra traducción del Himno 552 del Himnario Evangélico
+AC067, CSG347
+Sal 57:1
+</comment>
+    </comments>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <ccliNo>75</ccliNo>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="075"/>
+    </songbooks>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="it">
+        <open>&lt;em&gt;</open>
+        <close>&lt;/em&gt;</close>
+        <hidden>False</hidden>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bajo sus alas habito seguro.<br/>En densa noche y en cruel tempestad<br/>Confiar yo puedo, pues sé que Él me guarda;<br/>Me ha rescatado su inmensa bondad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bajo sus alas refugio yo tengo;<br/>Con ansia búscole de corazón.<br/>Cuando me asaltan del mal tentaciones,<br/>Jesús me brinda sin par protección.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bajo sus alas hay gozo inefable;<br/>Seguro estoy del feroz tentador.<br/>Si enfermedad o tristeza me agobian,<br/>Cristo me extiende su mano de amor.<br/>____</lines>
+    </verse>
+    <verse name="c1">
+      <lines>
+        <tag name="it">    Seguro estoy, seguro estoy.<br/>    ¿Quién de Jesús me separa?<br/>    Seguro estoy, sí, seguro estoy.<br/>    Salvo y seguro me guarda.</tag>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

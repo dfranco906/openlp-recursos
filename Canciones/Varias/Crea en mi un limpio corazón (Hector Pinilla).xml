@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Crea en mi un limpio corazón</title>
+    </titles>
+    <authors>
+      <author>Hector Pinilla</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>//Crea en mi un limpio, corazón, oh oh oh Dios, y renueva tu Espíritu en mi//</lines>
+    </verse>
+    <verse name="c1">
+      <lines>//Y no me eches, de tu presencia Señor, y no quites de mi, tu Espíritu Divino, devuélveme, el gozo de tu salvación, y renueva tu Espíritu,  dentro de mi//</lines>
+    </verse>
+  </lyrics>
+</song>

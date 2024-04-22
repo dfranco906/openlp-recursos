@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Dios Incomparable</title>
+    </titles>
+    <verseOrder>v1 c1 b1</verseOrder>
+    <authors>
+      <author>Marcos Barrientos</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dios de mi corazón, en ti encontre mi salvación, Tu gloria y majestad quiero siempre contemplar, Tu eres mi adoración y mi eterna canción,Todo mi interior es cautivado por tu amor</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Eres Dios eterno, solo tu eres bueno, Dios incomparable eres tú, Nunca me separaré de tu gran amor, Eres mi señor mi salvador</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Aleluya, Aleluya</lines>
+    </verse>
+  </lyrics>
+</song>

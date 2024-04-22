@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:11">
+  <properties>
+    <titles>
+      <title>Gracias por la cruz</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author>Marcela Gándara</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="406"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Gracias por la cruz, Dios,<br/>Por el precio Tú pagar;<br/>Mi pecado y dolor tu amor quitó<br/>Dando gracia eternal.<br/>Gracias por tu amor, Dios,<br/>Por las manos que herí;<br/>Pues tu río me limpió<br/>Y tengo en ti tu perdón y salvación.<br/></lines>
+      <lines>Digno eres, Señor;<br/>En tu trono estás<br/>Coronado con poder,<br/>Reinas con majestad.<br/>El Hijo de Dios<br/>Ensalzado Rey,<br/>Moriste en la cruz en mi lugar;<br/>// Digno eres Señor. //</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Gracias por la cruz, Dios,<br/>Por el precio tú pagar;<br/>Mi pecado y dolor tu amor quitó<br/>Dando gracia eternal.<br/>Gracias por tu amor, Dios,<br/>Por las manos que herí;<br/>Pues tu río me limpió<br/>Y tengo en ti tu perdón y salvación.<br/></lines>
+      <lines>Digno eres, Señor;<br/>En tu trono estás<br/>Coronado con poder,<br/>Reinas con majestad.<br/>El Hijo de Dios<br/>Ensalzado Rey,<br/>Moriste en la cruz en mi lugar;<br/>/// Digno eres Señor. ///<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-21T03:20:17">
+  <properties>
+    <titles>
+      <title>010 Cantad Alegres Al Señor</title>
+      <title>10 Cantad Alegres Al Señor</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author type="words">Tomás J. González Carvajal</author>
+      <author type="music">Tomás J. González Carvajal</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>HIMNOS</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1 Cantad alegres al Señor,<br/>mortales todos por doquier;<br/>servidle siempre con fervor,<br/>obedecedle con placer.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2 Con gratitud canción alzad<br/>al Hacedor que el ser nos dio;<br/>al Dios excelso venerad,<br/>que como padre nos amó.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3 Su pueblo somos: salvará<br/>A los que busquen al Señor;<br/>ninguno de ellos dejará,<br/>Él las ampara con su amor.</lines>
+    </verse>
+  </lyrics>
+</song>

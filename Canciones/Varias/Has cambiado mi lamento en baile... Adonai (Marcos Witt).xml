@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:11">
+  <properties>
+    <titles>
+      <title>Has cambiado mi lamento en baile... Adonai</title>
+    </titles>
+    <comments>
+      <comment>AC312
+</comment>
+    </comments>
+    <copyright>Sal 30:11-12</copyright>
+    <authors>
+      <author>Marcos Witt</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="215"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">// Has cambiado mi lamento en baile,<br/>Me ceñiste todo de alegría. //<br/><br/>Por tanto a ti cantaré,<br/>Gloria mía, gloria mía;<br/>Y solo a ti danzaré,<br/>Gloria mía, gloria mía.</lines>
+      <lines>// Oh, Adonai, oh, Adonai,<br/>Dios del universo,<br/>Señor de la creación. //<br/><br/>// Los cielos cuentan tu gloria,<br/>Tus hijos hoy te adoran<br/>Por todas tus maravillas, Adonai. //</lines>
+    </verse>
+  </lyrics>
+</song>

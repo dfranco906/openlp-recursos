@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:12">
+  <properties>
+    <titles>
+      <title>Maravilloso es Él... Él salva</title>
+    </titles>
+    <comments>
+      <comment>AC109
+</comment>
+    </comments>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="133"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Maravilloso es Él, //<br/>Él salva, guarda,<br/>Permanece fiel.<br/>Maravilloso es Él.</lines>
+    </verse>
+  </lyrics>
+</song>

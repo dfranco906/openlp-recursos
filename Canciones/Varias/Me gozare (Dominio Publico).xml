@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T12:30:57">
+  <properties>
+    <titles>
+      <title>Me gozare</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Dominio Publico</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>//Me gózare en tu presencia Jehová, con todas mis fuerzas gritaré ¡Hey!//</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CORO:<br/>//Ante tí con gozo cantaré, con alegre danza celebraré, saltaré y me gozaré//</lines>
+    </verse>
+  </lyrics>
+</song>

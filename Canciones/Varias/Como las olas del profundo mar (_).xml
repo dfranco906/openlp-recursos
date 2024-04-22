@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:10">
+  <properties>
+    <titles>
+      <title>Como las olas del profundo mar</title>
+    </titles>
+    <comments>
+      <comment>AC126
+</comment>
+    </comments>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="283"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Como las olas del profundo mar<br/>Es tu amor, oh Cristo, en su inmensidad.<br/><br/>Cruzo la mar en tempestad;<br/>Mi barquilla segura está.<br/>Mi Capitán me llevará<br/>Salvo al celeste hogar.</lines>
+    </verse>
+  </lyrics>
+</song>

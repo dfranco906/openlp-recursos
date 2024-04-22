@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.0.2" modifiedIn="OpenLP 3.0.2" modifiedDate="2023-10-26T13:35:09">
+  <properties>
+    <titles>
+      <title>A Ti el Alfa y la Omega</title>
+    </titles>
+    <authors>
+      <author>?</author>
+    </authors>
+    <songbooks>
+      <songbook name="C" entry="010"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">A ti, el Alfa y la Omega,<br/>El principio y el fin,<br/>Y el gran "Yo Soy", me rindo.<br/>A ti, el Todopoderoso,<br/>El que es y que será<br/>Y el gran "Yo Soy", me entrego.</lines>
+      <lines>Yo quiero que gobiernes mi vida,<br/>Me doy en sacrificio a ti.<br/>Yo quiero que tú ordenes mi caminar,<br/>Que siempre viva en tu voluntad.<br/>____</lines>
+    </verse>
+  </lyrics>
+</song>
