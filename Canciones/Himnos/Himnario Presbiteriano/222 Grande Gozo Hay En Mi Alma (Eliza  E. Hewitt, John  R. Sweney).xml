@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-03-28T00:13:45">
+  <properties>
+    <titles>
+      <title>222 Grande Gozo Hay En Mi Alma</title>
+      <title>222</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Eliza  E. Hewitt</author>
+      <author type="music">John  R. Sweney</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>Himno</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Grande gozo hay en mi alma hoy<br/>Pues Jesús conmigo está,<br/>Y su paz, que ya gozando estoy<br/>Por siempre durará.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Grande gozo, ¡cuán hermoso!<br/>Paso todo el tiempo bien feliz;<br/>Porque veo de Cristo la sonriente faz,<br/>Grande gozo siento en mí.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hay un canto en mi alma hoy,<br/>Melodías a mi Rey;<br/>En su amor feliz y libre soy,<br/>Y salvo por la fe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Paz divina hay en mi alma hoy,<br/>Porque Cristo me salvó;<br/>Las cadenas rotas ya están,<br/>Jesús me libertó.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gratitud hay en mi alma hoy,<br/>Y alabanzas a Jesús,<br/>Por su gracia a la gloria voy,<br/>Gozándome en la luz.</lines>
+    </verse>
+  </lyrics>
+</song>
