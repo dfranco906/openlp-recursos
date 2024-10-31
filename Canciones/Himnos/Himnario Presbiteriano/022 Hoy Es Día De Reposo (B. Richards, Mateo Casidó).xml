@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-30T23:41:42">
+  <properties>
+    <titles>
+      <title>022 Hoy Es Día De Reposo</title>
+      <title>Hoy es dia de reposo</title>
+    </titles>
+    <verseOrder>o1 v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="words">Mateo Casidó</author>
+      <author type="music">B. Richards</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>Himno</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Nº 22<br/>Hoy Es Día De Reposo</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1 Hoy es día de reposo,<br/>El gran día de solaz.<br/>Es el día venturoso<br/>Que nos trae dulce paz.<br/><p style="page-break-after: always;"/><br/>Es el día señalado<br/>Con el sello del amor;<br/>Nuestro Dios lo ha asignado:<br/>Es el día del Señor.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2 Celebremos a porfía<br/>Al autor de todo don,<br/>Que nos da el festivo día,<br/>Y se goza en el perdón.<br/><p style="page-break-after: always;"/><br/>Aceptemos hoy con gusto<br/>El descanso semanal,<br/>Esperando el día a gusto<br/>Del reposo celestial.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3 Trabajar es la sentencia<br/>De la antigua creación,<br/>Y morir, la consecuencia<br/>De la prevaricación.<br/><p style="page-break-after: always;"/><br/>Mas reposo y vida estable<br/>Dios nos da, quitando el mal;<br/>Y su amor inescrutable<br/>De la gracia es el raudal.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4 Los que a ti nos acercamos<br/>Por Jesús, Dios de verdad,<br/>Hoy alegres proclamamos<br/>Tu justicia y bondad.<br/><p style="page-break-after: always;"/><br/>De este día a la memoria<br/>Siempre se celebrará:<br/>Y en el cielo con la gloria<br/>Por los siglos durará.</lines>
+    </verse>
+  </lyrics>
+</song>

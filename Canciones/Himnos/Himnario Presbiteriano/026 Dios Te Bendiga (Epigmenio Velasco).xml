@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-31T00:15:59">
+  <properties>
+    <titles>
+      <title>026 Dios Te Bendiga</title>
+      <title>Dios te bendiga</title>
+    </titles>
+    <verseOrder>o1 v1</verseOrder>
+    <authors>
+      <author type="words">Epigmenio Velasco</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>Himno</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dios te bendiga, protección te dé;<br/>Sea su gracia siempre tu sostén;<br/>Su ángel velando a tu redor esté,<br/>Dándote abrigo siempre por doquier.<br/>Amén.</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Nº 26<br/>Dios te Bendiga</lines>
+    </verse>
+  </lyrics>
+</song>

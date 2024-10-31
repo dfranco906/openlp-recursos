@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-30T23:54:17">
+  <properties>
+    <titles>
+      <title>023 Aramos Nuestros Campos</title>
+      <title>Aramos nuestros campos</title>
+    </titles>
+    <verseOrder>o1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Matthias Claudius</author>
+      <author type="music">Johann A. P. Schulz</author>
+      <author type="translation">Ernesto Barocio</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>Himno</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Nº 22<br/>Aramos Nuestros Campos</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Aramos nuestros campos,<br/>Y luego el sembrador<br/>En ellos la siempre<br/>Esparce con amor.<br/><p style="page-break-after: always;"/><br/>Pero es de Dios la mano<br/>Que la hace germinar,<br/>Calor y lluvia dando<br/>A todos por igual.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>El Hacedor Supremo<br/>De cuanto existe es El.<br/>Su aroma da a las flores,<br/>Y a las abejas miel.<br/><p style="page-break-after: always;"/><br/>Las aves alimenta,<br/>De peces puebla el mar,<br/>Y da a cada hijo suyo<br/>Su cotidiano pan.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te damos gracias, Padre,<br/>Por cuanto bien nos das:<br/>Las flores y los frutos,<br/>Salud, y vida y pan.<br/><p style="page-break-after: always;"/><br/>Nada hay con que paguemos<br/>Lo que nos da tu amor,<br/>Sino nuestro sincero<br/>Y humilde corazón.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Cuando bien tenemos<br/>Procede del Creador.<br/>Su nombre load,<br/>y gracias dad<br/>Por su infinito amor.</lines>
+    </verse>
+  </lyrics>
+</song>

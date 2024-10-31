@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-30T23:03:01">
+  <properties>
+    <titles>
+      <title>021 Grande Es Tu Fidelidad</title>
+      <title>Grande es tu fidelidad</title>
+    </titles>
+    <verseOrder>o1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author type="words">Thomas O.  Chisholm</author>
+      <author type="translation">Honorato T. Reza</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>Himno</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Nº 21<br/>Grande Es Tu Fidelidad</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1 Oh, Dios Eterno, tu misericordia<br/>ni una sombra de duda tendrá;<br/>Tu compasión y bondad nunca fallan<br/>y por los siglos el mismo serás.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>¡Oh tu fidelidad! ¡Oh tu fidelidad!<br/>cada momento la veo en mí.<br/>Nada me falta, pues todo provees.<br/>¡Grande, Señor, es tu fidelidad!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2 La noche oscura, el sol y la luna,<br/>las estaciones del año también,<br/>Unen su canto cual fieles criaturas,<br/>porque eres bueno, por siempre eres fiel.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3 Tú me perdonas, me impartes el gozo,<br/>tierno me guías por sendas de paz;<br/>Eres mi fuerza, mi fe, mi reposo,<br/>y por los siglos mi Padre serás.</lines>
+    </verse>
+  </lyrics>
+</song>
