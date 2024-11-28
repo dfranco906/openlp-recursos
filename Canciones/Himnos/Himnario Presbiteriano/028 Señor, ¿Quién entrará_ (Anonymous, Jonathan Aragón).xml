@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-11-27T23:24:23">
+  <properties>
+    <titles>
+      <title>028 Señor, ¿Quién entrará?</title>
+      <title>Señor quién entrará?</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author type="translation">Jonathan Aragón</author>
+      <author type="words">Anonymous</author>
+      <author type="music">Anonymous</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>Himno</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Señor, ¿quién entrará en tu santuario para adorar?<br/>Señor, ¿quién entrará en tu santuario para adorar?<br/>El de manos limpias y un corazón puro,<br/><p style="page-break-after: always;"/><br/>y sin vanidades, que sepa amar;<br/>El de manos limpias y un corazón puro,<br/>y sin vanidades, que sepa amar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Señor, yo quiero entrar en tu santuario para adorar.<br/>Señor, yo quiero entrar en tu santuario para adorar.<br/>Dame manos limpias y un corazón puro,<br/><p style="page-break-after: always;"/><br/>y sin vanidades; enseñame a amar;<br/>Dame manos limpias y un corazón puro,<br/>y sin vanidades; enseñame a amar.</lines>
+    </verse>
+  </lyrics>
+</song>

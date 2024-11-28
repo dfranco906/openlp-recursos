@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-11-27T23:37:15">
+  <properties>
+    <titles>
+      <title>029 Que todo el mundo cante al Señor</title>
+      <title>Que todo el mundo cante al Señor</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <authors>
+      <author type="words">George Herbert</author>
+      <author type="music">George Herbert</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>Himno</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Que todo el mundo cante al Señor, mi Dios y Rey.<br/>Los cielos ecos dan, que a todas partes van.<br/><p style="page-break-after: always;"/><br/>La tierra en derredor proclama su loor;<br/>Que todo el mundo cante al Señor, mi Dios y Rey.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Que todo el mundo cante al Señor, mi Dios y Rey.<br/>La iglesia himnos da y nunca cesara;<br/><p style="page-break-after: always;"/><br/>Con todo el corazón le alaben con tesón;<br/>Que todo el mundo cante al Señor, mi Dios y Rey.<br/>Amén.</lines>
+    </verse>
+  </lyrics>
+</song>

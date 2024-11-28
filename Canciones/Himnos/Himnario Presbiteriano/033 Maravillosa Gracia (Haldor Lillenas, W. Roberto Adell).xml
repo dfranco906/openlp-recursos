@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-11-28T00:15:21">
+  <properties>
+    <titles>
+      <title>033 Maravillosa Gracia</title>
+      <title>Maravillosa gracia</title>
+    </titles>
+    <verseOrder>o1 v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author type="words">Haldor Lillenas</author>
+      <author type="music">Haldor Lillenas</author>
+      <author type="translation">W. Roberto Adell</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>Himno</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Nº 33<br/>Maravillosa Gracia</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Maravillosa gracia vino Jesús a dar,<br/>Más alta que los cielos, más honda que la mar,<br/>Más grande que mis culpas clavadas en la cruz<br/>Es la maravillosa gracia de Jesús.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Inefable es la divina gracia, la divina gracia;<br/>Es inmensurable cual la más profunda mar,<br/>Fuente preciosa para el pecador, el pecador<br/>Perdonando todos mis pecados<br/>Cristo me limpió de mi maldad<br/>Alabaré su dulce nombre por la eternidad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Maravillosa gracia, gracia de compasión,<br/>Gracia que sacia el alma con plena salvación,<br/>Gracia que lleva al cielo, gracia de paz y luz<br/>Es la maravillosa gracia de Jesús.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Maravillosa gracia llama con dulce voz,<br/>Llámanos a ser hechos hijos de nuestro Dios;<br/>Colma de su consuelo, nos llena de virtud,<br/>Es la maravillosa gracia de Jesús.</lines>
+    </verse>
+  </lyrics>
+</song>

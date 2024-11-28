@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-11-28T01:07:23">
+  <properties>
+    <titles>
+      <title>040 Santa Biblia</title>
+      <title>Santa biblia</title>
+    </titles>
+    <verseOrder>o1 v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="words">John Burton</author>
+      <author type="music">John Burton</author>
+      <author type="translation">Pedro Castro</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>Himno</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Nº 40<br/>Santa Biblia</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Santa Biblia, para mí<br/>eres un tesoro aquí;<br/>Tú contienes con verdad<br/><p style="page-break-after: always;"/><br/>la divina voluntad;<br/>Tú me dices lo que soy,<br/>de quién vine y a quién voy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tú reprendes mi dudar;<br/>tú me exhortas sin cesar;<br/>Eres faro que a mi pie,<br/><p style="page-break-after: always;"/><br/>va guiando por la fe<br/>A las fuentes del amor<br/>del bendito Salvador.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eres infalible voz<br/>del Espíritu de Dios,<br/>Que vigor al alma da<br/><p style="page-break-after: always;"/><br/>cuando en aflicción está;<br/>Tú me enseñas a triunfar<br/>de la muerte y el pecar.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Por tu santa letra sé<br/>que con Cristo reinaré;<br/>Yo que tan indigno soy,<br/><p style="page-break-after: always;"/><br/>por tu luz al cielo voy;<br/>¡Santa Biblia! para mí<br/>eres un tesoro aquí.</lines>
+    </verse>
+  </lyrics>
+</song>

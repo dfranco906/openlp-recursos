@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-11-27T23:44:11">
+  <properties>
+    <titles>
+      <title>030 ¡Hosanna! ¡Hosanna! ¡Hosanna!</title>
+      <title>¡Hosanna! ¡Hosanna! ¡Hosanna!</title>
+    </titles>
+    <verseOrder>o1 v1</verseOrder>
+    <authors>
+      <author type="words">William B. Bradbury</author>
+      <author type="music">William B. Bradbury</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>Himno</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Nº 30<br/>¡Hosanna! ¡Hosanna! ¡Hosanna!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>¡Hosanna! ¡Hosanna! ¡Hosanna!<br/>En cielo y tierra es del Señor <br/>La gloria y potestad;<br/><p style="page-break-after: always;"/><br/>Y nos circunda con su amor<br/>La excelsa Trinidad.<br/>Alzad pues himnos de loor,<br/><p style="page-break-after: always;"/><br/>Que es grato al sumo Bién,<br/>Y a Dios rindamos todo honor<br/>Ahora y siempre, Amén.<br/><p style="page-break-after: always;"/><br/>A Dios rindamos todo honor, <br/>todo honor, todo honor!<br/>A Dios rindamos todo honor<br/><p style="page-break-after: always;"/><br/>Ahora y siempre.<br/>Amén.</lines>
+    </verse>
+  </lyrics>
+</song>

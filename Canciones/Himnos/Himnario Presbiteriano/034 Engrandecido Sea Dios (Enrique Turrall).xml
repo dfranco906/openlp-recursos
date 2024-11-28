@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-11-28T00:27:01">
+  <properties>
+    <titles>
+      <title>034 Engrandecido Sea Dios</title>
+      <title>Engrandecido sea Dios</title>
+    </titles>
+    <verseOrder>o1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Enrique Turrall</author>
+      <author type="music">Enrique Turrall</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>Himno</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Nº 34<br/>Engrandecido sea Dios</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Engrandecido sea Dios<br/>En esta reunión, en esta reunión;<br/>Alegres, juntos a una voz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dad gloria, gloria, gloria, gloria;<br/>Dad gloria a nuestro Dios;<br/>Gloria, Dad gloria a nuestro Dios.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Durante el día que pasó,<br/>La mano del Señor, la mano del Señor<br/>De muchos males nos salvó. </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pues hasta aquí nos ayudó<br/>Y siempre proveerá, y siempre proveerá.<br/>Con gratitud, placer y amor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A otras almas ¡salva, oh Dios!<br/>Despiértalas, Señor despiértalas, Señor.<br/>Escucha nuestra petición.</lines>
+    </verse>
+  </lyrics>
+</song>

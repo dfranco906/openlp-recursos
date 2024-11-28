@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-11-28T00:34:50">
+  <properties>
+    <titles>
+      <title>036 Lámpara Fiel</title>
+      <title>Lampara fiel</title>
+    </titles>
+    <verseOrder>o1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Bernard Barton</author>
+      <author type="music">Bernard Barton</author>
+      <author type="translation">Juan de los Santos</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>Himno</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Nº 36<br/>Lámpara Fiel</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Lámpara fiel que luz me das<br/>En senda terrenal,<br/>Fuente de Dios, de fe, de paz,<br/>Y gloria celestial.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lámpara fiel, eres luz celestial.<br/>Guía mis pies al hogar celestial.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pan eres Tu de nuestro ser,<br/>Oh celestial maná;<br/>Carta eres en que pueda leer<br/>Las glorias de Jehová.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Eres palabra, Tú, de Dios,<br/>De Cristo voluntad;<br/>Sin ti la vida es muy atroz<br/>Y todo falsedad.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sabiduría celestial,<br/>De ti quiero aprender<br/>En esta vida terrenal,<br/>Y transformar mi ser.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-11-28T00:30:46">
+  <properties>
+    <titles>
+      <title>035 Padre, Tu palabra es</title>
+      <title>Padre tu palabra es</title>
+    </titles>
+    <verseOrder>o1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author type="words">Juan Bautista Cabrera</author>
+      <author type="music">Juan Bautista Cabrera</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>Himno</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Nº 35<br/>Padre, Tu Palabra Es</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Padre, tu Palabra es<br/>mi delicia y mi solaz;<br/>Guíe siempre aquí mis pies,<br/>y a mi pecho traiga paz.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Es tu ley, Señor,<br/>faro celestial,<br/>Que en perenne resplandor,<br/>norte y guía es del mortal.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sí, obediente oí tu voz,<br/>en tu gracia fuerza hallé,<br/>Y confirme pie y veloz<br/>por tus sendas caminé.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu verdad es mi sostén<br/>contra duda y tentación,<br/>Y destila calma y bien<br/>cuando asalta la aflicción.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Son tus dichos, para mí,<br/>prendas fieles de salud;<br/>Dame, pues, que te oiga a ti,<br/>con filial solicitud.</lines>
+    </verse>
+  </lyrics>
+</song>

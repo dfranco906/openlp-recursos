@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-11-27T23:56:41">
+  <properties>
+    <titles>
+      <title>031 Sed Bienvenidos</title>
+      <title>Sean todos bienvenidos En el día del Señor</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="translation">Juan Bautista Cabrera</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>Himno</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sean todos bienvenidos<br/>En el día del Señor,<br/>Y en la escuela reunidos<br/><p style="page-break-after: always;"/><br/>Por la misma fe y amor.<br/>Cristo da a los corazones<br/>Plenitud de bendiciones.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No hay aquí pueril recreo,<br/>Ni hay un frívolo solaz;<br/>Arde en todos el deseo<br/><p style="page-break-after: always;"/><br/>De crecer en gracia y paz:<br/>Y a tan santa y noble cita<br/>Es Jesús quien nos invita.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>De su amor la tierna historia<br/>Nos presenta la lección,<br/>Que atesora la memoria<br/><p style="page-break-after: always;"/><br/>Y acaricia el corazón:<br/>Y benévolo en pro nuestro.<br/>Cristo mismo es el maestro.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Él nos habla, y aprendemos<br/>Lo que obró por nuestro bien;<br/>Él nos dice que tenemos<br/><p style="page-break-after: always;"/><br/>En su amor firme sostén,<br/>Y que de los pequeñuelos<br/>Es el reino de los cielos.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Y nosotros le adoramos,<br/>Confesándole Señor;<br/>Y a su nombre tributamos<br/><p style="page-break-after: always;"/><br/>Toda gloria, prez y honor,<br/>Cual primicias de alabanza<br/>De la eterna bienandanza.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-11-28T01:03:06">
+  <properties>
+    <titles>
+      <title>039 ¡Cuán Firme Cimiento!</title>
+      <title>Cuan firme cimiento</title>
+    </titles>
+    <verseOrder>o1 v1 v2 v3 v4 v5</verseOrder>
+    <authors>
+      <author type="translation">Vicente Mendoza</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>Himno</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>¡Cuán firme cimiento se ha dado a la fe,<br/>de Dios en su eterna Palabra de amor!<br/>¡Qué más Él pudiera en su libro añadir<br/>si todo a sus fieles lo ha dicho el Señor!<br/>¿Sí todo a sus hijos lo ha dicho el Señor?</lines>
+    </verse>
+    <verse name="v2">
+      <lines> No temas por nada, contigo yo soy;<br/>tu Dios soy yo solo, tu ayuda seré;<br/>tu fuerza y firmeza en mi diestra estarán,<br/>y en ella sostén y poder te daré.<br/>y en ella sostén y poder te daré.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No habrán de anegarte las ondas del mar<br/>Si en aguas profundas te ordeno salir;<br/>Pues siempre contigo en agustias seré,<br/>Y todas tus epnas podré bendecir.<br/>Y todas tus penas podré bendecir.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>La llama no puede dañarte jamás,<br/>Si en medio del fuego te ordeno pasar;<br/>El oro de tu alma más puro será,<br/>Pues sólo la escoria se habrá de quemar.<br/>Pues sólo la escoria se habrá de quemar.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Al alma que anhele la paz que hay en Mi,<br/>Jamás en sus luchas la habré de dejar;<br/>Si todo el infierno la quiere perder,<br/>¡Yo nunca, no, nunca la puedo olvidar!<br/>¡Yo nunca, no, nunca la puedo olvidar!</lines>
+    </verse>
+    <verse name="o1">
+      <lines>Nº 39<br/>¡Cuán Firme Cimiento!</lines>
+    </verse>
+  </lyrics>
+</song>

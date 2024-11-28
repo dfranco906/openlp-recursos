@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-11-28T00:43:57">
+  <properties>
+    <titles>
+      <title>037 Jesús, Yo he prometido</title>
+      <title>Jesus yo he prometido</title>
+    </titles>
+    <verseOrder>o1 v1 v2 v3 v4</verseOrder>
+    <authors>
+      <author type="words">John Ernest Bode</author>
+      <author type="music">John Ernest Bode</author>
+      <author type="translation">Juan Bautista Cabrera</author>
+    </authors>
+    <songbooks>
+      <songbook name="Himnario Presbiteriano"/>
+    </songbooks>
+    <themes>
+      <theme>Himno</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>Nº 37<br/>Jesús, Yo He Prometido</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Jesús, he prometido<br/>servirte con amor;<br/>concédeme tu gracia,<br/>mi amigo y Salvador.<br/><p style="page-break-after: always;"/><br/>No temeré la lucha<br/>si Tú a mi lado estás,<br/>ni perderé el camino<br/>si Tú guiando vas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>El mundo está muy cerca,<br/>y abunda tentación,<br/>Es suave el engaño<br/>y es necia la pasión;<br/><p style="page-break-after: always;"/><br/>ven Tú, Jesús, más cerca<br/>mostrando tu piedad<br/>y escuda el alma mía<br/>de toda iniquidad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cuando mi mente vague<br/>ya incierta, ya veloz,<br/>concédeme que escuche,<br/>Jesús, tu clara voz.<br/><p style="page-break-after: always;"/><br/>Anímame si paro;<br/>inspírame también;<br/>repréndame si temo<br/>en todo hacer el bien.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jesús, Tú has prometido<br/>a todo aquel que va<br/>siguiendo tus pisadas,<br/>que al cielo llegará.<br/><p style="page-break-after: always;"/><br/>Sostenme en el camino,<br/>y al fin con dulce amor<br/>trasládame a tu gloria,<br/>mi Amigo y Salvador.</lines>
+    </verse>
+  </lyrics>
+</song>
